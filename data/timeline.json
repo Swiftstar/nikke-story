@@ -99,7 +99,7 @@
           "id": "black-sea",
           "title": "黑海",
           "range": "第 35–38 章",
-          "subtitle": "功績被官方播過。暗物質裡出現席茲，饕餮張口。"
+          "subtitle": "功績被官方播過。小美人魚在饕餮喉嚨裡。暗物質裡出現席茲，饕餮張口。"
         },
         {
           "id": "queen-factor",
@@ -118,12 +118,6 @@
           "title": "第三次收復",
           "range": "第 46–48 章",
           "subtitle": "女王改寫地面。方舟的動力在掉，收復戰被宣告開始。"
-        },
-        {
-          "id": "unplaced",
-          "title": "尚未對上章節",
-          "range": "檔案館",
-          "subtitle": "小美人魚在饕餮喉嚨裡的七十年，還沒嵌進第 00–48 章。"
         }
       ]
     }
@@ -4353,6 +4347,81 @@
       "title": "主線 48・決戰時刻",
       "url": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_48_07",
       "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_prologue": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・一年的最後一夜",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_prologue",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_01_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・月光下的相遇：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_01_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_01_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・月光下的相遇：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_01_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_02_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・執劍姐妹：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_02_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_02_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・執劍姐妹：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_02_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_03_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・描繪薔薇色的未來：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_03_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_03_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・描繪薔薇色的未來：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_03_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_intermission_01": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・沒有什麼是永恆的",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_intermission_01",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_04_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・紛爭的種子：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_04_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_04_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・紛爭的種子：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_04_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_05_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・像盛開的紅色花朵一樣：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_05_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_05_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・像盛開的紅色花朵一樣：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_05_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_06_s": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・花無十日紅：A",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_06_s",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_06_e": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・花無十日紅：B",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_06_e",
+      "type": "官方繁中場景"
+    },
+    "event_newyearnewsword_epilogue": {
+      "title": "檔案館 NEW YEAR, NEW SWORD・致吾姐",
+      "url": "https://www.blablalink.com/shiftyspad/scene-list/section/event_newyearnewsword_epilogue",
+      "type": "官方繁中場景"
     }
   },
   "events": [
@@ -4555,7 +4624,13 @@
         "event_redash1_05_e",
         "event_redash1_06_s",
         "event_redash1_06_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅲ",
+        "title": "背對太陽",
+        "caption": "小紅帽與灰姑娘",
+        "src": "./assets/stills/red-hood-anachiro.png"
+      }
     },
     {
       "id": "anachiro-at-the-gate",
@@ -4616,13 +4691,7 @@
         "event_redash2_05_e",
         "event_redash2_06_s",
         "event_redash2_06_e"
-      ],
-      "visual": {
-        "number": "Ⅲ",
-        "title": "走向光裡的告別",
-        "caption": "小紅帽與莉莉維絲",
-        "src": "./assets/stills/red-hood-farewell.png"
-      }
+      ]
     },
     {
       "id": "red-shoes-sent-the-code",
@@ -4681,6 +4750,61 @@
         "event_oldtales2_05_e",
         "event_oldtales2_06_s",
         "event_oldtales2_06_e"
+      ]
+    },
+    {
+      "id": "melee-squad-takes-the-field",
+      "era": "goddess",
+      "category": "archive",
+      "chapter": "檔案館 NEW YEAR, NEW SWORD · 執劍姐妹",
+      "time": "女神部隊已成名、童話型號已在另外配給的地面戰爭",
+      "certainty": "場景主幹已核對",
+      "title": "近戰部隊第一次任務，薔花先跳進萊徹裡",
+      "summary": "十名特殊改良量產個體A編成近戰部隊。薔花在最終測試裡成績最好，當隊長。配給她們的人類聯軍軍官不肯被叫指揮官。第一次任務確認了二十架陸地型萊徹，要從建築物落到萊徹群中心。紅蓮朝著姐姐所在的地方跳下去。那次任務零傷亡。",
+      "people": [
+        "薔花",
+        "紅蓮"
+      ],
+      "effect": "之後她們接更多潛入和收復。第29司令部的收復由薔花報告完成。那名軍官要她們叫軍階，薔花叫他中尉。",
+      "detail": "對練記到這一局結束是985戰。薔花想記成976勝9平，紅蓮訂正為975勝10平。集合時那名軍官嘀咕，童話型號配給了傭兵小子，輪到他的卻不會變成女神部隊。第一次任務要從建築物上落到萊徹群中心。紅蓮是朝著姐姐所在的地方跳下去的。露營那晚，薔花從補給裡翻出薔薇香的酒，紅蓮說苦。兩人只記得彼此是姐妹。薔花說，不是童話型號適合者的話，記憶不是全失就是全留。紅蓮把這份記憶說成自己當初覺得死也不該忘記姐姐。",
+      "analysis": "975勝10平是紅蓮當面訂正的數字，不是另一份官方戰績。傭兵小子沒有給出名字。她們只記得姐妹關係，是紅蓮和薔花自己的說法。",
+      "chronology": "女神部隊已經成了制度，童話型號也已經配給別人。早於 Over Zone 裡紅蓮握著姐姐留下的劍。近戰部隊為什麼沒有留下第二個人，在下一則。",
+      "sources": [
+        "event_newyearnewsword_02_s",
+        "event_newyearnewsword_02_e",
+        "event_newyearnewsword_03_s",
+        "event_newyearnewsword_03_e"
+      ]
+    },
+    {
+      "id": "rose-leaves-the-sword",
+      "era": "goddess",
+      "category": "archive",
+      "chapter": "檔案館 NEW YEAR, NEW SWORD · 花無十日紅",
+      "time": "任務前夜，到紅蓮把劍留下的那天",
+      "certainty": "場景主幹已核對",
+      "title": "薔花遮住眼睛砍死中尉，花無十日紅留給紅蓮",
+      "summary": "十人死了四人，只剩六人。其中兩人手臂故障，兩人刀鋒裂了，補給越等越久。下一場是第5司令部軍火庫，難度高過以往，人只剩一半，就在明天。薔花問過剩下的人，兩人同意脅迫那名中尉拿支援，兩人反對。紅蓮也反對。她後來追問薔花為什麼不守先執行任務的約定。當夜薔花還是去了。",
+      "people": [
+        "薔花",
+        "紅蓮"
+      ],
+      "effect": "薔花用衣服上的紅布遮眼，要大腦把目標當成萊徹，砍死了中尉和一名衝出來的隊員。一名倒下的同伴要紅蓮去阻止她。另外的同伴把劍指向紅蓮。兩人第985次對劍。薔花死前要紅蓮強到不受任何人擺佈，並為把她獨自留下道歉。上頭後來把這件事定性為內戰。其餘的人也互相揮劍，都死了。紅蓮葬了她們，留下姐姐的劍花無十日紅。",
+      "detail": "中尉說，在剩下最後一名之前不會有任何支援。活下來的人會得到童話型號的軀體。薔花說這是在篩選活得最久的那一個，中尉說她理解得很快。她說這次任務她們不做。她的判斷是：沒有什麼是永恆的；既然成功是死亡的原因，只有失敗才能活下去。中尉說至少他們兩個要活下來。薔花在那之後決定要守護什麼、放棄什麼。人類聯軍很晚才知道現場的事。紅蓮說，當時戰況更壞，也可能是大家先以為任務失敗、全員陣亡。她加入別的部隊之後才聽說姐姐放棄了什麼。自己的劍百日紅斷成半截，和姐姐的身體一起被收回總部。後來一名兵武大家用姐姐核心的碎片補上廢刃，花無十日紅才拿得住。",
+      "analysis": "最後這場被寫成第985次對練。先前對練結束時的975勝10平，是另一場記分，兩處沒有對成同一筆帳。童話型號的軀體是中尉說的處置，不是這一夜已經發生的改造。內戰是紅蓮轉述的定性，用來不讓外界知道妮姬殺得了人類。兵武大家沒有留下名字。歲末夜那朵模型花被叫成薔薇，後來午後的地面上又被叫成玫瑰。",
+      "chronology": "緊接近戰部隊還在出任務的時候。早於 Over Zone。紅蓮把這段講給指揮官，是前哨基地的歲末夜，諾伊斯的音樂會上有一朵薔薇模型花。那一夜場上有反擊部隊和無極限部隊，所以轉述晚於第 5 章。後來的午後她在地面看見熬過寒冬的幼苗。她自己說，當初約定和眾人一起喝的那瓶酒，可能是發酵了百年，苦，因為有人陪她喝才喝完。近戰部隊的死不在那一夜。",
+      "sources": [
+        "event_newyearnewsword_prologue",
+        "event_newyearnewsword_01_s",
+        "event_newyearnewsword_01_e",
+        "event_newyearnewsword_intermission_01",
+        "event_newyearnewsword_04_s",
+        "event_newyearnewsword_04_e",
+        "event_newyearnewsword_05_s",
+        "event_newyearnewsword_05_e",
+        "event_newyearnewsword_06_s",
+        "event_newyearnewsword_06_e",
+        "event_newyearnewsword_epilogue"
       ]
     },
     {
@@ -4749,7 +4873,7 @@
       "effect": "第二十天，桃樂絲仍對方舟重播那套勝利女神的報告。同一段時間，她另外錄過一次：守不住的可能越來越高，請立刻給支援和物資。",
       "detail": "皮娜說量產型多半沒有記憶，女神部隊卻留著人類時期的記憶，那種不一致會很重。她們是自願並肩，不是為了看女神部隊吵架。她指出桃樂絲不向人求助，要她只說一句「幫幫我」。白雪公主把一條能量棒交給桃樂絲，改去附近找物資。長髮公主連續祈禱時，桃樂絲要她聽還活著、正在求助的人；她說自己思念莉莉絲，也說長髮公主思念的小紅帽已經死了。紅蓮喝穀物酒代替食物，姐姐死後留下的劍叫花無十日紅。荒原上有嫩芽。",
       "analysis": "小紅帽已死，是桃樂絲對長髮公主說的話。在場舞劍的紅蓮是另一個人。方舟是否已經拋棄她們，這一階段只有紅蓮沒說完的句子，和一份沒有回音的求救。",
-      "chronology": "第一份拒絕支援的報告之後、第二十天的報告之前。求救語音與自豪語音都存在，場景沒有寫明哪一份先被送出。",
+      "chronology": "第一份拒絕支援的報告之後、第二十天的報告之前。求救語音與自豪語音都存在，場景沒有寫明哪一份先被送出。花無十日紅是姐姐薔花的劍，近戰部隊覆滅時留下。",
       "sources": [
         "event_overzone1_02_e",
         "event_overzone1_03_s",
@@ -4784,7 +4908,13 @@
       "sources": [
         "event_overzone1_06_s",
         "event_overzone1_06_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅳ",
+        "title": "槍口還沒落下",
+        "caption": "桃樂絲與皮娜",
+        "src": "./assets/stills/pinne-and-dorothy.png"
+      }
     },
     {
       "id": "oswald-seals-them-out",
@@ -4818,10 +4948,10 @@
         "event_overzone2_04_e"
       ],
       "visual": {
-        "number": "Ⅳ",
-        "title": "門關上的兩邊",
-        "caption": "白雪公主與桃樂絲",
-        "src": "./assets/stills/the-gate-closes.png"
+        "number": "Ⅴ",
+        "title": "沒打算讓她們進去",
+        "caption": "奧斯華",
+        "src": "./assets/stills/oswald.png"
       }
     },
     {
@@ -4852,10 +4982,10 @@
         "event_overzone2_06_e"
       ],
       "visual": {
-        "number": "Ⅴ",
+        "number": "Ⅵ",
         "title": "樂園前的越線",
         "caption": "桃樂絲",
-        "src": "./assets/stills/dorothy-crosses.png"
+        "src": "./assets/stills/dorothy-at-the-sign.png"
       }
     },
     {
@@ -5843,7 +5973,7 @@
       ],
       "arc": "heretic",
       "visual": {
-        "number": "Ⅵ",
+        "number": "Ⅶ",
         "title": "沉睡的公主",
         "caption": "培養艙裡的人",
         "src": "./assets/stills/sleeping-pods.png"
@@ -5900,7 +6030,7 @@
       ],
       "arc": "heretic",
       "visual": {
-        "number": "Ⅶ",
+        "number": "Ⅷ",
         "title": "要他忘記今天的人",
         "caption": "白雪公主",
         "src": "./assets/stills/snow-white.png"
@@ -6439,7 +6569,7 @@
       ],
       "arc": "vapaus",
       "visual": {
-        "number": "Ⅷ",
+        "number": "Ⅸ",
         "title": "代號亮起的兩秒",
         "caption": "小紅帽",
         "src": "./assets/stills/red-hood-name.png"
@@ -6903,7 +7033,7 @@
       ],
       "arc": "eden",
       "visual": {
-        "number": "Ⅸ",
+        "number": "Ⅹ",
         "title": "破開的伊甸",
         "caption": "伊甸園",
         "src": "./assets/stills/eden-breach.png"
@@ -6982,7 +7112,7 @@
       ],
       "arc": "eden",
       "visual": {
-        "number": "Ⅹ",
+        "number": "Ⅺ",
         "title": "核心做出的兩發",
         "caption": "解除劑",
         "src": "./assets/stills/two-rounds.png"
@@ -7031,10 +7161,10 @@
       ],
       "arc": "invasion",
       "visual": {
-        "number": "Ⅺ",
+        "number": "Ⅻ",
         "title": "天被撕開的方舟",
         "caption": "方舟開洞",
-        "src": "./assets/stills/the-hole.png"
+        "src": "./assets/stills/ark-torn.png"
       }
     },
     {
@@ -7228,7 +7358,7 @@
       ],
       "arc": "reclaim",
       "visual": {
-        "number": "Ⅻ",
+        "number": "ⅩⅢ",
         "title": "夕陽裡把身體還回去",
         "caption": "小紅帽",
         "src": "./assets/stills/red-hood-returns.png"
@@ -7363,7 +7493,7 @@
       ],
       "arc": "crystal-beasts",
       "visual": {
-        "number": "ⅩⅢ",
+        "number": "ⅩⅣ",
         "title": "水晶裡睜開的眼",
         "caption": "灰姑娘",
         "src": "./assets/stills/cinderella-wakes.png"
@@ -7452,7 +7582,7 @@
       ],
       "arc": "crystal-beasts",
       "visual": {
-        "number": "ⅩⅣ",
+        "number": "ⅩⅤ",
         "title": "用留下的力量打出的一擊",
         "caption": "拉毗",
         "src": "./assets/stills/rapi-inheritance.png"
@@ -7506,15 +7636,108 @@
       "id": "the-egg-and-the-deal",
       "era": "present",
       "category": "main",
-      "chapter": "35–36",
-      "time": "黑海與方舟裡的事務所",
+      "chapter": "35",
+      "time": "黑海上的蛋",
       "certainty": "已讀場景",
       "title": "蛋裡是貝西摩斯的核心",
-      "summary": "利維坦用暗物質當溶劑，把萊徹和死去的類人零件做成融合體。反擊部隊和墨提斯跟她做一筆只維持到貝西摩斯復活的交易。拉普拉斯的武器和手臂被水晶吞進去。",
+      "summary": "利維坦用暗物質當溶劑，把萊徹和死去的類人零件做成融合體。蛋裡伸出來的是拼過的手。拉毗判斷插手的智慧體是利維坦。",
       "people": [
         "利維坦",
         "拉毗",
         "灰姑娘",
+        "麥斯威爾",
+        "德雷克",
+        "指揮官"
+      ],
+      "effect": "融合體頂多無我級，卻都在嘗試發動召喚，而且失敗。麥斯威爾想連暗物質樣本一起帶回去，查異端者怎麼誕生。",
+      "detail": [
+        "蛋裡跑出來的不是人的手，是妮姬的手，零件像把萊徹和妮姬拆開再亂拼。召喚訊號本是領主級以上才能用的。這些融合體頂多無我級，卻都嘗試發動，而且失敗。拉毗判斷有智慧體在插手，那個智慧體是利維坦。灰姑娘不記得自己怎麼變成異端者。麥斯威爾不想在現場解剖，想連暗物質樣本一起帶回去查異端者怎麼誕生。",
+        "利維坦說，暗物質經過處理會變成溶解液，被溶解的東西，資訊會整個融進去。會飛的和會鑽地的合在一起，做是做得成，飛或鑽兩公分就散。她抓來溶的是萊徹。類人的部分，她說用的是已經死掉或被亂放的零件。若材料換成最初的異端者，她覺得或許能看見新世界。灰姑娘說，若她們為人類而戰，第二件事或許還能談。利維坦的回答是，她們連自己都顧不上。"
+      ],
+      "analysis": "融合體是利維坦營造環境後自己長成的，她說有一半算她製造。類人零件的來源，只有她說的「已經死掉或被亂放」，這一章沒有另一個人作證。",
+      "chronology": "第 35 章黑海的後半。Unbreakable Sphere 前篇接在這一章之後、第 36 章之前。",
+      "sources": [
+        "d_main_35_08_e"
+      ],
+      "arc": "black-sea"
+    },
+    {
+      "id": "throat-of-the-glutton",
+      "era": "present",
+      "category": "archive",
+      "chapter": "檔案館 Unbreakable Sphere · 巨大的嘴",
+      "time": "方舟對水晶區發射 AA 柱的那一次",
+      "certainty": "場景主幹已核對",
+      "title": "饕餮吞下 AA 柱，小美人魚在喉嚨裡等了約七十年",
+      "summary": "瑪娜與謝芙蒂為了清掉水晶區的 E2 水晶、給駐地擴張做前期，發射 AA 柱。中央政府情報部確認沒有官方部隊在裡面。米哈拉突然通報萊徹稀有個體。一張巨大的嘴從地底躍起，把 AA 柱吞下去。瑪娜要指揮部傳達代號饕餮出現。掉進水裡的人聽見一句承諾：你不會死。醒來後，透明屏障外有魚。救她的人是小美人魚，同伴叫她賽蓮。同一處還有剛醒來的米哈拉和尤妮。",
+      "people": [
+        "小美人魚",
+        "米哈拉",
+        "尤妮",
+        "莫莉",
+        "瑪娜",
+        "謝芙蒂"
+      ],
+      "effect": "賽蓮說她在泡沫樹附近看見他們落進海裡，用泡沫把人裝進去才救得了。言靈可以注入泡沫，即使她不親手搬運也能控制到把人送出。她在喉嚨裡做出泡沫膜，避免說話就發動言靈。那是很久以前和一位朋友一起生活、明白交談很美好之後才做出的。泡沫用得太多，再做出能離開的量要一個月。妮姬直接游出去會死。",
+      "detail": "她看了米哈拉的手機，說時間過了很久，自己來到這裡應該有七十年，期間一個人。海裡的銀色液體是消化液，會把人造物化成銀色，流進核心後被饕餮轉成力量。泡沫不會被它融化，而是按總量爭主導。消化液按週期噴出，不影響自然物，所以魚是真的。她起初把這裡說成海。屏障外出現紅核、萊徹朝這裡靠近時，她才說出他們在饕餮的喉嚨裡，出去就會死。她自己也是很久以前被吞進來的。",
+      "analysis": "七十年是她對著手機日期說的約數。饕餮與此前封住戰略兵器的那個代號同名。這一場的嘴，後來被說成連在更大本體上的嘴巴器官，不是整隻饕餮。",
+      "chronology": "依故事順序，前篇放在第 35 章結束之後、第 36 章開始之前。第 34 章只說 AA 柱此時適合使用，這次發射寫在這部檔案館。第 37–38 章地面上張開的嘴，是連在本體上的另一張嘴。",
+      "sources": [
+        "event_unbreakablesphere1_prologue",
+        "event_unbreakablesphere1_01_s",
+        "event_unbreakablesphere1_01_e",
+        "event_unbreakablesphere1_03_e",
+        "event_unbreakablesphere1_05_s"
+      ],
+      "arc": "black-sea",
+      "visual": {
+        "number": "ⅩⅥ",
+        "title": "張開口的饕餮",
+        "caption": "小美人魚仍在喉嚨裡",
+        "src": "./assets/stills/glutton-mouth.png"
+      }
+    },
+    {
+      "id": "mori-drops-the-box",
+      "era": "present",
+      "category": "archive",
+      "chapter": "檔案館 Unbreakable Sphere · 喉嚨",
+      "time": "離開日之前，黑盒子摔碎的那一刻",
+      "certainty": "場景主幹已核對",
+      "title": "智恩要看融合體聽見召喚時會咬誰，尤妮的眼睛紅了",
+      "summary": "莫莉隸屬孵化器部隊，是被判定沒有特殊才能、從米西利斯一般部隊一路被排開的妮姬。智恩把召喚訊號產生器交給她，要她跟著某人去地面，在貨車與方舟拉開距離時把黑盒子丟在後面，觀察「那個」會做出什麼選擇：萊徹本能醒來、撕咬珍惜的妮姬，或是維持妮姬的理智、撕咬身為萊徹的自己。智恩說這是她不久前做出的萊徹與妮姬融合體，必須保密。完成報告就能永遠排除在銷毀之外。銷毀執行在兩個月後，她必須在那之前交報告。進到喉嚨時，她說只剩一個月。莫莉從方舟就跟著米哈拉和尤妮。盒子在喉嚨裡摔碎，召喚響起。",
+      "people": [
+        "莫莉",
+        "智恩",
+        "尤妮",
+        "米哈拉",
+        "小美人魚"
+      ],
+      "effect": "萊徹衝撞屏障。銀色消化液灌入，AA 柱開始變成銀色。賽蓮用泡沫把它包住。尤妮的眼睛閃紅光，掐住米哈拉的脖子，眼裡流淚。賽蓮說「停止」，並提醒尤妮掉下來時在泡沫裡說過要救米哈拉。她說尤妮是妮姬，不是萊徹。紅光熄滅，手鬆開。莫莉逃走。孵化器是把惹過麻煩、又沒有特殊能力可以轉用的妮姬集中起來、給最後一次機會、否則銷毀的待處分部隊。",
+      "detail": "賽蓮對莫莉說，沒有人慶祝她的出生，就由自己來。今天可以當成生日。她也說，後悔沒伸手抓住朋友，一次就夠了。米哈拉用能力和泡沫樹交換感知，碰到與海水相連的巨大屏障，覺得有東西在看。賽蓮制止她，說還不能引起那個無法用語言溝通的東西的注意，自己只能用泡沫遮住視線爭取時間。",
+      "analysis": "智恩沒有在委託裡叫出融合體的名字。召喚響起時，場景寫出眼睛變紅的人是尤妮。沒伸手的那位朋友，這一場沒有說出名字。對照 Old Tales，她曾經從灰姑娘面前把手收回去。",
+      "chronology": "緊接他們被救進喉嚨之後，仍在第 36 章之前。銷毀日是智恩與莫莉對過的期限，不是方舟公開的日程。",
+      "sources": [
+        "event_unbreakablesphere1_02_s",
+        "event_unbreakablesphere1_03_s",
+        "event_unbreakablesphere1_03_e",
+        "event_unbreakablesphere1_intermission_01",
+        "event_unbreakablesphere1_04_s",
+        "event_unbreakablesphere1_04_e"
+      ],
+      "arc": "black-sea"
+    },
+    {
+      "id": "the-deal-until-revival",
+      "era": "present",
+      "category": "main",
+      "chapter": "36",
+      "time": "黑海與方舟裡的事務所",
+      "certainty": "已讀場景",
+      "title": "交易只維持到貝西摩斯復活",
+      "summary": "更大的蛋裡沒有動靜。德雷克做了心臟按壓，交易只到貝西摩斯復活為止。水晶吞掉拉普拉斯的武器和手臂。方舟裡，愛莉和阿維斯塔被派來查事務所。",
+      "people": [
+        "利維坦",
         "麥斯威爾",
         "拉普拉斯",
         "德雷克",
@@ -7527,15 +7750,12 @@
       ],
       "effect": "活捉單獨行動的利維坦被說成有可能。其他四獸加入就另說。偶像團體剩下的兩人同一間事務所，尼恩吃了閉門羹。愛莉和阿維斯塔被派來協助。",
       "detail": [
-        "蛋裡跑出來的不是人的手，是妮姬的手，零件像把萊徹和妮姬拆開再亂拼。召喚訊號本是領主級以上才能用的。這些融合體頂多無我級，卻都嘗試發動，而且失敗。拉毗判斷有智慧體在插手，那個智慧體是利維坦。灰姑娘不記得自己怎麼變成異端者。麥斯威爾不想在現場解剖，想連暗物質樣本一起帶回去查異端者怎麼誕生。",
-        "利維坦說，暗物質經過處理會變成溶解液，被溶解的東西，資訊會整個融進去。會飛的和會鑽地的合在一起，做是做得成，飛或鑽兩公分就散。她抓來溶的是萊徹。類人的部分，她說用的是已經死掉或被亂放的零件。若材料換成最初的異端者，她覺得或許能看見新世界。灰姑娘說，若她們為人類而戰，第二件事或許還能談。利維坦的回答是，她們連自己都顧不上。",
         "更大的蛋裡沒有動靜。麥斯威爾用電流刺激，德雷克做了她稱為反派的心臟按壓。利維坦說敢碰一根手指就拉大家陪葬。交易只到貝西摩斯復活為止。貝西摩斯吃萊徹碎片，吃得很差，因為她食量本來就大。水晶吞掉拉普拉斯的英雄武器，接著吞掉手臂。表面的水晶取出來了，裡面仍亂。動作大，水晶就會再擴。麥斯威爾不確定回駐地修不修得好。拉普拉斯不肯在這裡退，她說舒恩會再失去立足之地。",
         "英格麗答應馬士丁，派行政出色的妮姬，自己不親自出馬。偶像團體解散有一段時間，剩下兩人各自做事。愛莉和阿維斯塔進指揮官的房間，是在查資金和人事有沒有不正當獲利。有商人長期只對反擊部隊漲價，查下來不是串通。她們要用監察的名義，把阿妮斯和尼恩扮成助理帶進事務所。"
       ],
-      "analysis": "融合體是利維坦營造環境後自己長成的，她說有一半算她製造。類人零件的來源，只有她說的「已經死掉或被亂放」，這一章沒有另一個人作證。拉普拉斯被水晶侵蝕，和哈梅林那次不是同一場。",
-      "chronology": "黑海上的交易，和方舟裡找偶像同伴，是同一段時間的兩條線。讚美號載來的強化設施在下一章。",
+      "analysis": "拉普拉斯被水晶侵蝕，和哈梅林那次不是同一場。方舟裡的監察和黑海上的交易，是同一章裡的兩條線。",
+      "chronology": "第 35 章的蛋之後、第 36 章。Unbreakable Sphere 前篇在這一章之前，後篇在第 37 章之前。",
       "sources": [
-        "d_main_35_08_e",
         "d_main_36_01",
         "d_main_36_03_s",
         "d_main_36_03_e",
@@ -7543,6 +7763,38 @@
         "d_main_36_08_s",
         "d_main_36_09_s",
         "d_main_36_09_e"
+      ],
+      "arc": "black-sea"
+    },
+    {
+      "id": "the-mouth-breaks",
+      "era": "present",
+      "category": "archive",
+      "chapter": "檔案館 Unbreakable Sphere · 往後，我們的故事",
+      "time": "呼吸孔打開的那天，到海灘上的日出",
+      "certainty": "場景主幹已核對",
+      "title": "他們打碎的是饕餮的一張嘴，賽蓮再次看見天空",
+      "summary": "消化液提前，泡沫可以早一週做夠。賽蓮急著送人，是因為 AA 柱的能量失控，泡沫包不久。饕餮想消化這股能量。若被消化再向外放出，地面會有巨大災難。她留下，是為了在那之前清掉能量。呼吸孔大約一週開一次，泡沫人偶曾經被送出去過。她把米哈拉、尤妮和莫莉裹進泡沫送上地面，自己準備變成最漂亮的泡沫，像個勝利女神。她向利維、漢塞爾、葛麗特、艾比和灰姑娘道歉，說至少努力過了。",
+      "people": [
+        "小美人魚",
+        "莫莉",
+        "米哈拉",
+        "尤妮",
+        "灰姑娘",
+        "格拉維"
+      ],
+      "effect": "莫莉帶著瑪娜準備的玻璃瓶回來。M.M.R. 的說法是把水晶刺進核心，水晶會膨脹到把能量吸盡。瓶子裡對妮姬才安全。AA 柱原本就是要把這些東西一起消掉。賽蓮仍要留下確認。莫莉說自己不是勝利女神，仍要她活著，把善良會有回報證明給自己看。賽蓮想起軌道電梯前朋友伸出的手，和灰姑娘說故事還沒結束、要寫成幸福結局的那段話，握住莫莉的手。",
+      "detail": "尤妮固定著嘴，米哈拉把痛苦分過去。泡沫槍裡的水晶子彈打中嘴裡的核心，整個泡沫空間被言靈送出。核心沒有立刻崩毀。他們把剩餘的 AA 柱能量餵進去，E2 水晶脹破那顆核心，嘴落在地上，裡面的水晶跟著碎。震動遠去。賽蓮說有很多張嘴連在巨大本體上，她所在的是嘴巴器官的喉嚨。水晶侵蝕到本體，本體逃走了。她在真正的天空下說世界很美。一個綁著長辮子的紫色泡沫少女出現又散掉，她認成被派去找灰姑娘的泡沫。",
+      "analysis": "結尾裡，灰姑娘和格拉維已經站在真正海裡的泡沫空間。賽蓮說泡沫的用法是艾比教的，格拉維問那是不是過去的自己。灰姑娘要在回到王子身邊之前找漢塞爾和葛麗特。賽蓮說，若還想和她們並肩，也許不要找會比較好，因為她們不再站在人類這邊。王子沒有出場。第 30 章的格拉維用斷續的句子護著棺材，和拉毗交手；這一場的她能完整說話。兩場沒有被場景接成同一天。",
+      "chronology": "後篇放在第 36 章結束之後、第 37 章讚美號之前。這張卡寫到前篇結尾的破嘴，以及後篇裡灰姑娘與格拉維在海上重逢。第 30 章的格拉維還只能斷續說話，這一場她能把話說完。",
+      "sources": [
+        "event_unbreakablesphere1_05_e",
+        "event_unbreakablesphere1_06_s",
+        "event_unbreakablesphere1_06_e",
+        "event_unbreakablesphere2_05_e",
+        "event_unbreakablesphere2_06_s",
+        "event_unbreakablesphere2_06_e",
+        "event_unbreakablesphere2_epilogue"
       ],
       "arc": "black-sea"
     },
@@ -7580,7 +7832,7 @@
         "麥斯威爾說很久以前，饕餮吃掉軌道電梯發射的洲際飛彈，把能量吐出來，把發射地點夷平。從利維坦和席茲的反應看，它有一陣子沒活動。拉毗猜是她們，或她們帶的東西，引起了食慾。另一邊，阿妮斯找到敏特和普莉卡。她自己退出，毀了團體，現在來求一場退休公演。兩人出道多年、不受歡迎、沒有新歌新衣服。他們說服的方式是先裝成請阿妮斯幫忙。愛莉和阿維斯塔查出，貪汙後進過更生館的製作人一週前出獄，去了外緣區的非法場所就失蹤，因為是自己去的，沒有搜索。桃樂絲的頻道收視率是 0.02%、兩則貼文。阿妮斯要用別的影片把曝光做出來，不改她那支伊甸園的片子。"
       ],
       "analysis": "這一張嘴是地面上的饕餮，麥斯威爾講的是軌道電梯那次歷史。小美人魚在喉嚨裡的七十年沒有出現在這兩章。敏特和普莉卡是阿妮斯以前的成員，場景沒有把她們寫成普麗緹。",
-      "chronology": "蛋和交易之後。外緣區找製作人，接上尼恩拜託外來者部隊。",
+      "chronology": "第 36 章的交易，以及饕餮那張嘴被打碎、本體逃走之後。外緣區找製作人，接上尼恩拜託外來者部隊。",
       "sources": [
         "d_main_37_02_e",
         "d_main_37_05",
@@ -7638,7 +7890,7 @@
       ],
       "arc": "queen-factor",
       "visual": {
-        "number": "ⅩⅤ",
+        "number": "ⅩⅦ",
         "title": "鯨背上的因子",
         "caption": "娜由塔",
         "src": "./assets/stills/nayuta-whale.png"
@@ -7972,109 +8224,11 @@
       ],
       "arc": "third-reclaim",
       "visual": {
-        "number": "ⅩⅥ",
+        "number": "ⅩⅧ",
         "title": "站上前甲板的人",
         "caption": "桃樂絲",
         "src": "./assets/stills/dorothy-deck.webp"
       }
-    },
-    {
-      "id": "throat-of-the-glutton",
-      "era": "present",
-      "category": "archive",
-      "chapter": "檔案館 Unbreakable Sphere · 巨大的嘴",
-      "time": "方舟對水晶區發射 AA 柱的那一次",
-      "certainty": "場景主幹已核對；未對上第 00–48 章的某一場",
-      "title": "饕餮吞下 AA 柱，小美人魚在喉嚨裡等了約七十年",
-      "summary": "瑪娜與謝芙蒂為了清掉水晶區的 E2 水晶、給駐地擴張做前期，發射 AA 柱。中央政府情報部確認沒有官方部隊在裡面。米哈拉突然通報萊徹稀有個體。一張巨大的嘴從地底躍起，把 AA 柱吞下去。瑪娜要指揮部傳達代號饕餮出現。掉進水裡的人聽見一句承諾：你不會死。醒來後，透明屏障外有魚。救她的人是小美人魚，同伴叫她賽蓮。同一處還有剛醒來的米哈拉和尤妮。",
-      "people": [
-        "小美人魚",
-        "米哈拉",
-        "尤妮",
-        "莫莉",
-        "瑪娜",
-        "謝芙蒂"
-      ],
-      "effect": "賽蓮說她在泡沫樹附近看見他們落進海裡，用泡沫把人裝進去才救得了。言靈可以注入泡沫，即使她不親手搬運也能控制到把人送出。她在喉嚨裡做出泡沫膜，避免說話就發動言靈。那是很久以前和一位朋友一起生活、明白交談很美好之後才做出的。泡沫用得太多，再做出能離開的量要一個月。妮姬直接游出去會死。",
-      "detail": "她看了米哈拉的手機，說時間過了很久，自己來到這裡應該有七十年，期間一個人。海裡的銀色液體是消化液，會把人造物化成銀色，流進核心後被饕餮轉成力量。泡沫不會被它融化，而是按總量爭主導。消化液按週期噴出，不影響自然物，所以魚是真的。她起初把這裡說成海。屏障外出現紅核、萊徹朝這裡靠近時，她才說出他們在饕餮的喉嚨裡，出去就會死。她自己也是很久以前被吞進來的。",
-      "analysis": "七十年是她對著手機日期說的約數。饕餮與此前封住戰略兵器的那個代號同名。這一場的嘴，後來被說成連在更大本體上的嘴巴器官，不是整隻饕餮。",
-      "chronology": "放在已讀主線第 48 章之後。第 34 章只說 AA 柱此時適合使用，沒有寫下這次發射。第 38 章和第 41 章的饕餮是地面上的嘴，不是這一場喉嚨裡的七十年。",
-      "sources": [
-        "event_unbreakablesphere1_prologue",
-        "event_unbreakablesphere1_01_s",
-        "event_unbreakablesphere1_01_e",
-        "event_unbreakablesphere1_03_e",
-        "event_unbreakablesphere1_05_s"
-      ],
-      "arc": "unplaced",
-      "visual": {
-        "number": "ⅩⅦ",
-        "title": "張開口的饕餮",
-        "caption": "小美人魚仍在喉嚨裡",
-        "src": "./assets/stills/glutton-mouth.png"
-      }
-    },
-    {
-      "id": "mori-drops-the-box",
-      "era": "present",
-      "category": "archive",
-      "chapter": "檔案館 Unbreakable Sphere · 喉嚨",
-      "time": "離開日之前，黑盒子摔碎的那一刻",
-      "certainty": "場景主幹已核對",
-      "title": "智恩要看融合體聽見召喚時會咬誰，尤妮的眼睛紅了",
-      "summary": "莫莉隸屬孵化器部隊，是被判定沒有特殊才能、從米西利斯一般部隊一路被排開的妮姬。智恩把召喚訊號產生器交給她，要她跟著某人去地面，在貨車與方舟拉開距離時把黑盒子丟在後面，觀察「那個」會做出什麼選擇：萊徹本能醒來、撕咬珍惜的妮姬，或是維持妮姬的理智、撕咬身為萊徹的自己。智恩說這是她不久前做出的萊徹與妮姬融合體，必須保密。完成報告就能永遠排除在銷毀之外。銷毀執行在兩個月後，她必須在那之前交報告。進到喉嚨時，她說只剩一個月。莫莉從方舟就跟著米哈拉和尤妮。盒子在喉嚨裡摔碎，召喚響起。",
-      "people": [
-        "莫莉",
-        "智恩",
-        "尤妮",
-        "米哈拉",
-        "小美人魚"
-      ],
-      "effect": "萊徹衝撞屏障。銀色消化液灌入，AA 柱開始變成銀色。賽蓮用泡沫把它包住。尤妮的眼睛閃紅光，掐住米哈拉的脖子，眼裡流淚。賽蓮說「停止」，並提醒尤妮掉下來時在泡沫裡說過要救米哈拉。她說尤妮是妮姬，不是萊徹。紅光熄滅，手鬆開。莫莉逃走。孵化器是把惹過麻煩、又沒有特殊能力可以轉用的妮姬集中起來、給最後一次機會、否則銷毀的待處分部隊。",
-      "detail": "賽蓮對莫莉說，沒有人慶祝她的出生，就由自己來。今天可以當成生日。她也說，後悔沒伸手抓住朋友，一次就夠了。米哈拉用能力和泡沫樹交換感知，碰到與海水相連的巨大屏障，覺得有東西在看。賽蓮制止她，說還不能引起那個無法用語言溝通的東西的注意，自己只能用泡沫遮住視線爭取時間。",
-      "analysis": "智恩沒有在委託裡叫出融合體的名字。召喚響起時，場景寫出眼睛變紅的人是尤妮。沒伸手的那位朋友，這一場沒有說出名字。對照 Old Tales，她曾經從灰姑娘面前把手收回去。",
-      "chronology": "緊接他們被救進喉嚨之後、離開之前。銷毀日是智恩與莫莉對過的期限，不是方舟公開的日程。",
-      "sources": [
-        "event_unbreakablesphere1_02_s",
-        "event_unbreakablesphere1_03_s",
-        "event_unbreakablesphere1_03_e",
-        "event_unbreakablesphere1_intermission_01",
-        "event_unbreakablesphere1_04_s",
-        "event_unbreakablesphere1_04_e"
-      ],
-      "arc": "unplaced"
-    },
-    {
-      "id": "the-mouth-breaks",
-      "era": "present",
-      "category": "archive",
-      "chapter": "檔案館 Unbreakable Sphere · 往後，我們的故事",
-      "time": "呼吸孔打開的那天，到海灘上的日出",
-      "certainty": "場景主幹已核對；結尾人物的主線章節尚未讀",
-      "title": "他們打碎的是饕餮的一張嘴，賽蓮再次看見天空",
-      "summary": "消化液提前，泡沫可以早一週做夠。賽蓮急著送人，是因為 AA 柱的能量失控，泡沫包不久。饕餮想消化這股能量。若被消化再向外放出，地面會有巨大災難。她留下，是為了在那之前清掉能量。呼吸孔大約一週開一次，泡沫人偶曾經被送出去過。她把米哈拉、尤妮和莫莉裹進泡沫送上地面，自己準備變成最漂亮的泡沫，像個勝利女神。她向利維、漢塞爾、葛麗特、艾比和灰姑娘道歉，說至少努力過了。",
-      "people": [
-        "小美人魚",
-        "莫莉",
-        "米哈拉",
-        "尤妮",
-        "灰姑娘",
-        "格拉維"
-      ],
-      "effect": "莫莉帶著瑪娜準備的玻璃瓶回來。M.M.R. 的說法是把水晶刺進核心，水晶會膨脹到把能量吸盡。瓶子裡對妮姬才安全。AA 柱原本就是要把這些東西一起消掉。賽蓮仍要留下確認。莫莉說自己不是勝利女神，仍要她活著，把善良會有回報證明給自己看。賽蓮想起軌道電梯前朋友伸出的手，和灰姑娘說故事還沒結束、要寫成幸福結局的那段話，握住莫莉的手。",
-      "detail": "尤妮固定著嘴，米哈拉把痛苦分過去。泡沫槍裡的水晶子彈打中嘴裡的核心，整個泡沫空間被言靈送出。核心沒有立刻崩毀。他們把剩餘的 AA 柱能量餵進去，E2 水晶脹破那顆核心，嘴落在地上，裡面的水晶跟著碎。震動遠去。賽蓮說有很多張嘴連在巨大本體上，她所在的是嘴巴器官的喉嚨。水晶侵蝕到本體，本體逃走了。她在真正的天空下說世界很美。一個綁著長辮子的紫色泡沫少女出現又散掉，她認成被派去找灰姑娘的泡沫。",
-      "analysis": "結尾裡，灰姑娘和格拉維已經站在真正海裡的泡沫空間。賽蓮說泡沫的用法是艾比教的，格拉維問那是不是過去的自己。灰姑娘要在回到王子身邊之前找漢塞爾和葛麗特。賽蓮說，若還想和她們並肩，也許不要找會比較好，因為她們不再站在人類這邊。王子沒有出場。第 30 章的格拉維用斷續的句子護著棺材，和拉毗交手；這一場的她能完整說話。兩場沒有被場景接成同一天。",
-      "chronology": "喉嚨裡的戰鬥結束在日出的海灘。與灰姑娘重逢，是同一部結尾，不是第 30 章水晶區裡的事。莫莉留下與他們同行，米哈拉清掉可被追蹤的手機，兩人先回方舟向瑪娜說明。智恩傳訊把任務當成成功，莫莉免於銷毀。",
-      "sources": [
-        "event_unbreakablesphere1_05_e",
-        "event_unbreakablesphere1_06_s",
-        "event_unbreakablesphere1_06_e",
-        "event_unbreakablesphere2_05_e",
-        "event_unbreakablesphere2_06_s",
-        "event_unbreakablesphere2_06_e",
-        "event_unbreakablesphere2_epilogue"
-      ],
-      "arc": "unplaced"
     }
   ]
 }
