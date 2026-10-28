@@ -1,0 +1,593 @@
+{
+  "language": "zh-TW",
+  "verified_date": "2026-10-28",
+  "source": "https://www.blablalink.com/shiftyspad/nikke-list",
+  "policy": "角色名稱依 BlablaLink 官方繁中圖鑑；非圖鑑角色與專有名詞須另查官方繁中場景，不自行由英語音譯。角色別名、不同型態與同名身份須依原場景判斷，不自動當作同一稱呼替換。",
+  "characters": [
+    {
+      "name": "灰姑娘",
+      "incorrect_translations": [
+        "仙杜瑞拉"
+      ]
+    },
+    {
+      "name": "桃樂絲",
+      "incorrect_translations": []
+    },
+    {
+      "name": "白雪公主",
+      "incorrect_translations": []
+    },
+    {
+      "name": "小紅帽",
+      "incorrect_translations": []
+    },
+    {
+      "name": "長髮公主",
+      "incorrect_translations": []
+    },
+    {
+      "name": "紅蓮",
+      "incorrect_translations": []
+    },
+    {
+      "name": "拉毗",
+      "incorrect_translations": []
+    },
+    {
+      "name": "阿妮斯",
+      "incorrect_translations": []
+    },
+    {
+      "name": "小美人魚",
+      "incorrect_translations": []
+    },
+    {
+      "name": "銀華",
+      "incorrect_translations": [
+        "恩華"
+      ]
+    },
+    {
+      "name": "貝斯蒂",
+      "incorrect_translations": [
+        "薇斯蒂"
+      ]
+    },
+    {
+      "name": "艾瑪",
+      "incorrect_translations": [
+        "愛瑪"
+      ]
+    },
+    {
+      "name": "愛麗絲",
+      "incorrect_translations": [
+        "艾莉絲"
+      ]
+    },
+    {
+      "name": "魯德米拉",
+      "incorrect_translations": [
+        "露德米拉"
+      ]
+    },
+    {
+      "name": "神罰",
+      "incorrect_translations": []
+    },
+    {
+      "name": "艾可希雅",
+      "incorrect_translations": []
+    },
+    {
+      "name": "諾薇兒",
+      "incorrect_translations": []
+    },
+    {
+      "name": "普麗瓦蒂",
+      "incorrect_translations": []
+    },
+    {
+      "name": "尤爾夏",
+      "incorrect_translations": []
+    },
+    {
+      "name": "艾德米",
+      "incorrect_translations": []
+    },
+    {
+      "name": "拉普拉斯",
+      "incorrect_translations": []
+    },
+    {
+      "name": "麥斯威爾",
+      "incorrect_translations": []
+    },
+    {
+      "name": "德雷克",
+      "incorrect_translations": []
+    },
+    {
+      "name": "尼希利斯塔",
+      "incorrect_translations": []
+    },
+    {
+      "name": "吉蘿婷",
+      "incorrect_translations": []
+    },
+    {
+      "name": "梅登",
+      "incorrect_translations": []
+    },
+    {
+      "name": "瑪娜",
+      "incorrect_translations": []
+    },
+    {
+      "name": "布麗德",
+      "incorrect_translations": []
+    },
+    {
+      "name": "索林",
+      "incorrect_translations": []
+    },
+    {
+      "name": "迪塞爾",
+      "incorrect_translations": []
+    },
+    {
+      "name": "佩珀",
+      "incorrect_translations": []
+    },
+    {
+      "name": "舒格",
+      "incorrect_translations": []
+    },
+    {
+      "name": "梅里",
+      "incorrect_translations": []
+    },
+    {
+      "name": "K",
+      "incorrect_translations": []
+    },
+    {
+      "name": "D",
+      "incorrect_translations": []
+    },
+    {
+      "name": "朵拉",
+      "incorrect_translations": []
+    },
+    {
+      "name": "楊",
+      "incorrect_translations": []
+    },
+    {
+      "name": "露菲",
+      "incorrect_translations": []
+    }
+  ],
+  "scene_characters": [
+    {
+      "name": "瑪麗安",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_01_01_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "謝芙蒂",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_01_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "安德森",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_01af_02",
+      "incorrect_translations": []
+    },
+    {
+      "name": "英格麗",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_01af_03",
+      "incorrect_translations": []
+    },
+    {
+      "name": "尼恩",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_01af_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "米哈拉",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_03_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "尤妮",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_03_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "舒恩",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_03_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "阿尼克",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_04af_01",
+      "incorrect_translations": [
+        "伊妮克"
+      ]
+    },
+    {
+      "name": "馬士丁",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_04af_08",
+      "incorrect_translations": [
+        "馬斯坦"
+      ]
+    },
+    {
+      "name": "伯甯姆",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_14_09",
+      "incorrect_translations": []
+    },
+    {
+      "name": "莉安",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_14af_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "莉莉維絲",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_overzone_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "皮娜",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_overzone1_02_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "奧斯華",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_overzone2_04_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "阿納基奧勒",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_redash2_02_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "芙蕾西亞",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_redash2_03_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "艾比",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_oldtales1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "紅舞鞋",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_oldtales1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "漢塞爾",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_oldtales1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "葛麗特",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_oldtales1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "賽蓮",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_oldtales1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "莫莉",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_unbreakablesphere1_prologue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "智恩",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_unbreakablesphere1_02_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "格拉維",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_unbreakablesphere2_epilogue",
+      "incorrect_translations": []
+    },
+    {
+      "name": "利維",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/event_unbreakablesphere1_06_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "克拉烏",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_16_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "毒蛇",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_16_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "豺狼",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_16_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "約翰",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "塞西爾",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19af_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "哈蘭",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19_06",
+      "incorrect_translations": []
+    },
+    {
+      "name": "諾雅",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "伊莎貝爾",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "莉貝雷利奧",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_20_10_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "芭比瓏",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_19_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "波莉",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_01_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "米蘭達",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_01_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "羅珊娜",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_05_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "櫻花",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_05_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "牡丹",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_05_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "多萬",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_22_10",
+      "incorrect_translations": []
+    },
+    {
+      "name": "萊普琪立安",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_26af_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "利弗林",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_27_01_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "伊萊格",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_27_01_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "哈梅林",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_27_01_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "鐘鳴",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_25_08_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "皇冠",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_26_03_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "芙拉吉爾",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_28_af_02",
+      "incorrect_translations": []
+    },
+    {
+      "name": "德里爾林",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_29_02_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "特羅尼",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_28_af_02",
+      "incorrect_translations": []
+    },
+    {
+      "name": "芙羅拉",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_27_09_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "貝西摩斯",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_31_06",
+      "incorrect_translations": []
+    },
+    {
+      "name": "利維坦",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_32_07",
+      "incorrect_translations": []
+    },
+    {
+      "name": "席茲",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_37_08_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "巴哈姆特",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_41_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "娜由塔",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_39_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "皮諾丘",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_40_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "愛莉",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_36_08_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "阿維斯塔",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_36_08_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "海倫",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_37_02_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "馬斯特",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_37_02_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "安克",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_37_02_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "敏特",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_38_05_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "普莉卡",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_38_05_e",
+      "incorrect_translations": []
+    },
+    {
+      "name": "米賽斯小姐",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_40_af_03",
+      "incorrect_translations": []
+    },
+    {
+      "name": "諾伊斯",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_39_af_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "沃綸姆",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_39_af_05",
+      "incorrect_translations": []
+    },
+    {
+      "name": "卡爾森",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_40_af_01",
+      "incorrect_translations": []
+    },
+    {
+      "name": "艾瑟兒",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_41_af_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "普林瑟斯",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_43_02",
+      "incorrect_translations": []
+    },
+    {
+      "name": "斯托爾三世",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_43_02",
+      "incorrect_translations": []
+    },
+    {
+      "name": "奧圖露亞",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_44_08_s",
+      "incorrect_translations": []
+    },
+    {
+      "name": "艾格維斯塔",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_46_11",
+      "incorrect_translations": []
+    },
+    {
+      "name": "魔鏡",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_46_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "薔花",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_46_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "安尼希利奧",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_47_06",
+      "incorrect_translations": []
+    },
+    {
+      "name": "獨一",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_41_08",
+      "incorrect_translations": []
+    },
+    {
+      "name": "恩德莉絲",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_45_08",
+      "incorrect_translations": []
+    },
+    {
+      "name": "恩德利斯",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_45_07",
+      "incorrect_translations": []
+    },
+    {
+      "name": "阿爾卡娜",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_45_06",
+      "incorrect_translations": []
+    },
+    {
+      "name": "伊特妮緹",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_42_af_04",
+      "incorrect_translations": []
+    },
+    {
+      "name": "和合公",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/section/d_main_40_04",
+      "incorrect_translations": []
+    }
+  ]
+}

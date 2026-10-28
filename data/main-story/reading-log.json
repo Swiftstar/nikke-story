@@ -1,0 +1,4597 @@
+{
+  "updated": "2026-10-28",
+  "policy": "只記錄官方場景網址與原創摘要，不保存完整劇本、玩家名稱或帳號資訊。已讀主幹不代表所有選項分支都讀完。",
+  "chapters": [
+    {
+      "chapter": "00",
+      "status": "5 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=1",
+      "scenes": [
+        {
+          "id": "d_main_01_01_s",
+          "title": "第一次接觸：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_01_e",
+          "title": "第一次接觸：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_02",
+          "title": "烈士二人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_03_s",
+          "title": "會合：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_03_e",
+          "title": "會合：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "01",
+      "status": "12 場景主幹已讀，部分選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=2",
+      "scenes": [
+        {
+          "id": "d_main_01_04_s",
+          "title": "小矛盾：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_04_e",
+          "title": "小矛盾：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_05",
+          "title": "謝芙蒂",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_06_s",
+          "title": "繃帶：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_06_e",
+          "title": "繃帶：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_07_s",
+          "title": "紅眼睛：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01_07_e",
+          "title": "紅眼睛：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01af_01",
+          "title": "前往方舟",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01af_02",
+          "title": "副司令",
+          "status": "已讀主幹，選讀安德森大人及詢問理由分支"
+        },
+        {
+          "id": "d_main_01af_03",
+          "title": "她的空間",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_01af_04",
+          "title": "測試",
+          "status": "已讀至最後選項，選項後待讀"
+        },
+        {
+          "id": "d_main_01af_05",
+          "title": "前往地面",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "02",
+      "status": "14 場景主幹已讀，部分選項後續與分支待補讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=3",
+      "scenes": [
+        {
+          "id": "d_main_02_01",
+          "title": "調查發電廠",
+          "status": "已讀主幹，選讀願意承受電流分支"
+        },
+        {
+          "id": "d_main_02_02",
+          "title": "禁止單獨使用",
+          "status": "已讀主幹，選讀拒絕橡膠靴分支"
+        },
+        {
+          "id": "d_main_02_03",
+          "title": "控制中心",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02_04",
+          "title": "火力萬歲",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02_05",
+          "title": "進入發電廠",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02_06",
+          "title": "進入排水道",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02_07",
+          "title": "陰暗，潮濕，有異味",
+          "status": "已讀至第二次選項；其後待補讀"
+        },
+        {
+          "id": "d_main_02_08_s",
+          "title": "掉落：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02_08_e",
+          "title": "掉落：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02af_01",
+          "title": "責任",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02af_02",
+          "title": "前哨基地",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02af_03",
+          "title": "宿舍",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_02af_04",
+          "title": "指揮官室",
+          "status": "已讀主幹，選讀拒絕換宿及是人分支"
+        },
+        {
+          "id": "d_main_02af_07",
+          "title": "人類和怪物",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "03",
+      "status": "7 場景主幹已讀，部分選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=4",
+      "scenes": [
+        {
+          "id": "d_main_03_01",
+          "title": "祕密作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_03_02",
+          "title": "喜歡的東西",
+          "status": "已讀主幹，選讀詢問中槍分支"
+        },
+        {
+          "id": "d_main_03_03",
+          "title": "代號囂嘈",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_03_04",
+          "title": "獎勵",
+          "status": "已讀主幹，選讀獎勵方式分支"
+        },
+        {
+          "id": "d_main_03_05",
+          "title": "突襲",
+          "status": "已讀主幹，選讀空中分支"
+        },
+        {
+          "id": "d_main_03_06",
+          "title": "感知支配者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_03_07",
+          "title": "斷裂的痕跡",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "04",
+      "status": "20 場景主幹已讀；選項分支已核對並於分歧後匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=5",
+      "scenes": [
+        {
+          "id": "d_main_04_01",
+          "title": "變形的齒輪",
+          "status": "已讀主幹，兩個選項皆匯合至露營"
+        },
+        {
+          "id": "d_main_04_02",
+          "title": "溫暖的手",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_03_s",
+          "title": "短暫的關係：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_03_e",
+          "title": "短暫的關係：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_04_s",
+          "title": "聒噪的人：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_04_e",
+          "title": "聒噪的人：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_05",
+          "title": "傷員們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_06",
+          "title": "未知的存在",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_07",
+          "title": "存在的意義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_08",
+          "title": "威脅",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_09_s",
+          "title": "特種部隊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04_09_e",
+          "title": "特種部隊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04af_01",
+          "title": "判決",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04af_02",
+          "title": "模仿人類",
+          "status": "已讀主幹，兩分支皆匯合"
+        },
+        {
+          "id": "d_main_04af_03",
+          "title": "告別",
+          "status": "已讀兩互斥分支，其後匯合"
+        },
+        {
+          "id": "d_main_04af_04",
+          "title": "獻花",
+          "status": "已讀主幹，兩個心情選項匯合"
+        },
+        {
+          "id": "d_main_04af_05",
+          "title": "指揮官的命令",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04af_06",
+          "title": "小小的報復",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04af_07",
+          "title": "一路朝北",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_04af_08",
+          "title": "娛——樂！",
+          "status": "已讀主幹，兩種回答皆匯合至通行證"
+        }
+      ]
+    },
+    {
+      "chapter": "05",
+      "status": "14 場景主幹已讀；選項分歧後皆已核對匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=6",
+      "scenes": [
+        {
+          "id": "d_main_05_01",
+          "title": "雪白的大地",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_02",
+          "title": "替代品",
+          "status": "已讀主幹，兩種感受匯合"
+        },
+        {
+          "id": "d_main_05_03",
+          "title": "暴風雪",
+          "status": "已讀主幹，兩種回答匯合"
+        },
+        {
+          "id": "d_main_05_04_s",
+          "title": "冰封的世界：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_04_e",
+          "title": "冰封的世界：B",
+          "status": "已讀主幹，兩種地位回答皆收為侍從"
+        },
+        {
+          "id": "d_main_05_05",
+          "title": "營救",
+          "status": "已讀主幹，兩種目的回答匯合"
+        },
+        {
+          "id": "d_main_05_06",
+          "title": "兔子先生",
+          "status": "已讀主幹，兩種回答匯合"
+        },
+        {
+          "id": "d_main_05_07",
+          "title": "無極限部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_08_s",
+          "title": "重逢：A",
+          "status": "已讀主幹，兩種指認匯合"
+        },
+        {
+          "id": "d_main_05_08_e",
+          "title": "重逢：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_09",
+          "title": "傳說中的武器",
+          "status": "已讀主幹，兩種解封回答皆未打開"
+        },
+        {
+          "id": "d_main_05_10",
+          "title": "前往研究基地",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_11_s",
+          "title": "巨大而堅固的：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_05_11_e",
+          "title": "巨大而堅固的：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "06",
+      "status": "9 場景主幹已讀；目擊現場的選項已核對匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=7",
+      "scenes": [
+        {
+          "id": "d_main_06_01",
+          "title": "舞姿",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_02",
+          "title": "代號白雪公主",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_03",
+          "title": "片刻的溫暖",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_04",
+          "title": "沉睡的公主們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_05",
+          "title": "尋找朝聖者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_06",
+          "title": "熟悉的微笑",
+          "status": "已讀主幹，兩組選項皆匯合"
+        },
+        {
+          "id": "d_main_06_07",
+          "title": "會面",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_08_s",
+          "title": "朝聖者：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_06_08_e",
+          "title": "朝聖者：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "07",
+      "status": "12 場景主幹已讀；身體狀況的兩種回答匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=8",
+      "scenes": [
+        {
+          "id": "d_main_07_01",
+          "title": "追蹤",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_02",
+          "title": "數十年的徬徨",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_03",
+          "title": "叛徒",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_04",
+          "title": "原動力",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_05",
+          "title": "不歸的理由",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_06_s",
+          "title": "神罰：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07_06_e",
+          "title": "神罰：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07af_01",
+          "title": "暴風雪過後",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07af_02",
+          "title": "不要摧毀世界",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07af_03",
+          "title": "特別機動隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_07af_04",
+          "title": "要做的事",
+          "status": "已讀主幹，兩種回答匯合"
+        },
+        {
+          "id": "d_main_07af_05",
+          "title": "前往數據資料中心",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "08",
+      "status": "8 場景主幹已讀；選項分歧後匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=9",
+      "scenes": [
+        {
+          "id": "d_main_08_01",
+          "title": "兩個間諜？",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_02",
+          "title": "萌生的猜疑",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_03",
+          "title": "兩者相爭",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_04",
+          "title": "分享祕密",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_05",
+          "title": "自由主義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_06",
+          "title": "兩個操作員",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_07",
+          "title": "聯手：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_08_08",
+          "title": "聯手：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "09",
+      "status": "15 場景主幹已讀；招募的兩種回答都接到她去查解除劑",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=10",
+      "scenes": [
+        {
+          "id": "d_main_09_01",
+          "title": "培訓",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_02_s",
+          "title": "解除劑：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_02_e",
+          "title": "解除劑：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_03",
+          "title": "開始駭客攻擊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_04",
+          "title": "紅色畫面",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_05_s",
+          "title": "回家的路滿是地雷：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_05_e",
+          "title": "回家的路滿是地雷：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_06_s",
+          "title": "惡劣玩笑：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09_06_e",
+          "title": "惡劣玩笑：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_01",
+          "title": "牽制",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_02",
+          "title": "難以言喻的事實",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_03",
+          "title": "偵探來了",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_04",
+          "title": "偵探的推理",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_05",
+          "title": "NIMPH",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_09af_06",
+          "title": "後援",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "10",
+      "status": "7 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=11",
+      "scenes": [
+        {
+          "id": "d_main_10_01",
+          "title": "聯合作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_02",
+          "title": "誰更強？",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_03_s",
+          "title": "阿妮斯與貝斯蒂：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_03_e",
+          "title": "阿妮斯與貝斯蒂：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_04",
+          "title": "尼恩與艾瑪",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_05",
+          "title": "被推遲的溝通",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_10_06",
+          "title": "珍貴的同伴",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "11",
+      "status": "7 場景主幹已讀；向下為戰鬥前後",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=12",
+      "scenes": [
+        {
+          "id": "d_main_11_01",
+          "title": "墨提斯部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_02",
+          "title": "誰先？",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_03",
+          "title": "是你的錯",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_04",
+          "title": "高效能玩具",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_05",
+          "title": "戰友",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_06_s",
+          "title": "向下：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_11_06_e",
+          "title": "向下：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "12",
+      "status": "14 場景主幹已讀；暗中會合與她的意志為戰鬥前後",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=13",
+      "scenes": [
+        {
+          "id": "d_main_12_01",
+          "title": "最強之意",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_02_s",
+          "title": "暗中會合：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_02_e",
+          "title": "暗中會合：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_03",
+          "title": "討厭的預感",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_04",
+          "title": "原地踏步",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_05",
+          "title": "怪物的內心",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_06",
+          "title": "惡夢成真",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_07_s",
+          "title": "她的意志：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12_07_e",
+          "title": "她的意志：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12af_01",
+          "title": "未被侵蝕的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12af_02",
+          "title": "嫉妒",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12af_03",
+          "title": "秘材H",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12af_04",
+          "title": "異端者確保作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_12af_05",
+          "title": "為了了結",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "13",
+      "status": "18 場景主幹已讀；回憶與血型的玩笑皆匯合",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=14",
+      "scenes": [
+        {
+          "id": "d_main_13_01",
+          "title": "展開作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_02",
+          "title": "等待時機",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_03",
+          "title": "衝鋒陷陣",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_04",
+          "title": "火車亂入",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_05_s",
+          "title": "AZX：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_05_e",
+          "title": "AZX：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_06_s",
+          "title": "可怕的重逢：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_06_e",
+          "title": "可怕的重逢：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_07",
+          "title": "毫無勝券的賭博",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_08_s",
+          "title": "迂迴：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13_08_e",
+          "title": "迂迴：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_01",
+          "title": "珍貴的血",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_02",
+          "title": "簽名",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_03",
+          "title": "獲勝的作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_04",
+          "title": "拖著疲憊的身軀",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_05",
+          "title": "小小的安慰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_06",
+          "title": "記憶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_13af_07",
+          "title": "小紅帽",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "14",
+      "status": "19 場景主幹已讀；對阿尼克的提問沒有收成唯一回答",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=15",
+      "scenes": [
+        {
+          "id": "d_main_14_01_s",
+          "title": "打折！：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_01_e",
+          "title": "打折！：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_02",
+          "title": "不祥的動向",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_03",
+          "title": "槍聲響起",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_04",
+          "title": "三角部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_05",
+          "title": "孤立",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_06",
+          "title": "詭雷",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_07",
+          "title": "誘餌",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_08",
+          "title": "對峙",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_09",
+          "title": "伯甯姆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_10",
+          "title": "令人羨慕的力量",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_11",
+          "title": "被散播的情報",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_12",
+          "title": "選擇之時",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_13",
+          "title": "新的朋友",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14_14",
+          "title": "為了重逢的旅行",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14af_01",
+          "title": "告一段落",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14af_02",
+          "title": "意外的召喚",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14af_03",
+          "title": "阿尼克",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_14af_04",
+          "title": "遺失的子彈",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "15",
+      "status": "14 場景主幹已讀；戰利品公開時指揮官出示的是那張紙",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=16",
+      "scenes": [
+        {
+          "id": "d_main_15_01",
+          "title": "達蘭特部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_02",
+          "title": "購物狂☆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_03",
+          "title": "錢的味道",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_04",
+          "title": "暴跌",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_05",
+          "title": "風險投資",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_06",
+          "title": "想要淋浴間",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_07_s",
+          "title": "中獎？：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15_07_e",
+          "title": "中獎？：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_01",
+          "title": "投資結果",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_02",
+          "title": "重大的發表",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_03",
+          "title": "被盜",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_04",
+          "title": "反壟斷的方法",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_05",
+          "title": "提案",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_15af_06",
+          "title": "為了噩夢的終結",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "16",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=17",
+      "scenes": [
+        {
+          "id": "d_main_16_01",
+          "title": "外來者部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_02",
+          "title": "恐怖分子",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_03",
+          "title": "無動於衷的報應",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_04",
+          "title": "同伴的正義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_05_s",
+          "title": "搜查犬：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_05_e",
+          "title": "搜查犬：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_06",
+          "title": "亡命徒",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_07",
+          "title": "疑惑",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_08",
+          "title": "跟著痕跡",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_09_s",
+          "title": "烙印與偏見：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_09_e",
+          "title": "烙印與偏見：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_10",
+          "title": "陰謀論",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_11",
+          "title": "自由意志",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_12",
+          "title": "燈塔",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_13_s",
+          "title": "攜手崇高的正義：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16_13_e",
+          "title": "攜手崇高的正義：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16af_01",
+          "title": "受到懷疑的英雄",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16af_02",
+          "title": "出氣",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_16af_03",
+          "title": "盛大的煙火",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "17",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=18",
+      "scenes": [
+        {
+          "id": "d_main_17_01_s",
+          "title": "黃金朝聖者：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_01_e",
+          "title": "黃金朝聖者：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_02",
+          "title": "絕密",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_03_s",
+          "title": "不安的心：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_03_e",
+          "title": "不安的心：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_04",
+          "title": "懷念",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_05_s",
+          "title": "新月：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_05_e",
+          "title": "新月：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_06",
+          "title": "致命的原料",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_07",
+          "title": "自己選擇的世界",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_08",
+          "title": "真相",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_09",
+          "title": "各自的路",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_10",
+          "title": "尊重各自的生活",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_11",
+          "title": "女神部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17_12",
+          "title": "目標",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17af_01",
+          "title": "護衛隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17af_02",
+          "title": "危險的提案",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17af_03",
+          "title": "公平的代價",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_17af_04",
+          "title": "漂亮的計劃",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "18",
+      "status": "20 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=19",
+      "scenes": [
+        {
+          "id": "d_main_18_01",
+          "title": "回歸旅行",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_02",
+          "title": "激動與翻湧",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_03",
+          "title": "妮姬的本質",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_04",
+          "title": "防禦牆研究所",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_05",
+          "title": "全新防禦牆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_06",
+          "title": "副作用",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_07_s",
+          "title": "不是英雄：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_07_e",
+          "title": "不是英雄：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_08",
+          "title": "疲憊的步伐",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_09",
+          "title": "勇氣何在",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_10",
+          "title": "最強反派",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_11",
+          "title": "墨提斯部隊的方式",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_12_s",
+          "title": "英雄：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18_12_e",
+          "title": "英雄：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_01",
+          "title": "不受審判的正義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_02",
+          "title": "探病",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_03",
+          "title": "被孤立的社會",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_04",
+          "title": "意志",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_05",
+          "title": "補給物資",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_18af_06",
+          "title": "誘惑",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "19",
+      "status": "11 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=20",
+      "scenes": [
+        {
+          "id": "d_main_19_01",
+          "title": "追蜜蜂的蝴蝶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_02",
+          "title": "為人類而造的碎片",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_03",
+          "title": "易逝",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_04",
+          "title": "下水道的彈殼",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_05",
+          "title": "襲擊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_06",
+          "title": "樂園朝聖者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_07",
+          "title": "誕生的理由",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_08_s",
+          "title": "樂園試煉：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19_08_e",
+          "title": "樂園試煉：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19af_01",
+          "title": "伊甸園",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_19af_02",
+          "title": "異端者擊退戰",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "20",
+      "status": "15 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=21",
+      "scenes": [
+        {
+          "id": "d_main_20_01",
+          "title": "通過考驗的人才",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_02",
+          "title": "職責",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_03",
+          "title": "指揮官的資格",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_04",
+          "title": "考驗指揮能力",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_05",
+          "title": "方舟的明日之星",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_06_s",
+          "title": "槍靶：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_06_e",
+          "title": "槍靶：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_07",
+          "title": "紅龍",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_08_s",
+          "title": "黑盒子：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_08_e",
+          "title": "黑盒子：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_09",
+          "title": "伊甸園的榮譽",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_10_s",
+          "title": "尼希利斯塔：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20_10_e",
+          "title": "尼希利斯塔：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20af_01",
+          "title": "體檢",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_20af_02",
+          "title": "前兆",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "21",
+      "status": "21 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=47",
+      "scenes": [
+        {
+          "id": "d_main_21_01_s",
+          "title": "天鯨：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_01_e",
+          "title": "天鯨：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_02_s",
+          "title": "名為啟明星：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_02_e",
+          "title": "名為啟明星：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_03_s",
+          "title": "初次見面的同伴：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_03_e",
+          "title": "初次見面的同伴：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_04_s",
+          "title": "祕密與真相：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_04_e",
+          "title": "祕密與真相：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_05_s",
+          "title": "征服與聚會",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_06",
+          "title": "背叛的價值",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_07_s",
+          "title": "腦中的刀刃：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_07_e",
+          "title": "腦中的刀刃：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_08_s",
+          "title": "射向天空：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_08_e",
+          "title": "射向天空：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_09_s",
+          "title": "在天空奔跑：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_09_e",
+          "title": "在天空奔跑：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_10_s",
+          "title": "我的力量：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21_10_e",
+          "title": "我的力量：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21af_01",
+          "title": "樂園的交易",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21af_02",
+          "title": "討厭的預感",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_21af_03",
+          "title": "本該發生的事情",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "22",
+      "status": "17 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=48",
+      "scenes": [
+        {
+          "id": "d_main_22_01_s",
+          "title": "破碎的方舟",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_01_e",
+          "title": "A.C.P.U.部隊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_02_s",
+          "title": "波莉與米蘭達：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_02_e",
+          "title": "波莉與米蘭達：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_03",
+          "title": "方舟守護者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_04_s",
+          "title": "兔子窩的動物：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_04_e",
+          "title": "兔子窩的動物：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_05_s",
+          "title": "黑道女王部隊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_05_e",
+          "title": "黑道女王部隊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_06",
+          "title": "羅珊娜的工作",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_07",
+          "title": "櫻花的工作",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_08",
+          "title": "牡丹的工作",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_09",
+          "title": "E.H.",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_10",
+          "title": "在黑暗中活動的她們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_11",
+          "title": "通道",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_12_s",
+          "title": "來自天上的：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_22_12_e",
+          "title": "來自天上的：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "23",
+      "status": "23 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=50",
+      "scenes": [
+        {
+          "id": "d_main_23_01_s",
+          "title": "冰冷的重逢：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_01_e",
+          "title": "冰冷的重逢：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_02_s",
+          "title": "誰是真兇：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_02_e",
+          "title": "誰是真兇：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_03_s",
+          "title": "牆外的風景：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_03_e",
+          "title": "牆外的風景：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_04",
+          "title": "牆外的指引",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_05_s",
+          "title": "洞穴裡的毒蛇：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_05_e",
+          "title": "洞穴裡的毒蛇：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_06_s",
+          "title": "單方面交易：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_06_e",
+          "title": "單方面交易：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_07_s",
+          "title": "隔牆守護者：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_07_e",
+          "title": "隔牆守護者：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_08_s",
+          "title": "方舟的選擇：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_08_e",
+          "title": "方舟的選擇：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_09_s",
+          "title": "監獄：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_09_e",
+          "title": "監獄：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_10_s",
+          "title": "即死之魔眼：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_10_e",
+          "title": "即死之魔眼：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_11_s",
+          "title": "禮物：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23_11_e",
+          "title": "禮物：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23af_01",
+          "title": "被遺忘的名字",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_23af_02",
+          "title": "慘不忍睹",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "24",
+      "status": "22 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=51",
+      "scenes": [
+        {
+          "id": "d_main_24_01",
+          "title": "熟悉的工作",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_02",
+          "title": "復仇的資格",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_03",
+          "title": "真正目的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_04",
+          "title": "女王們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_05_s",
+          "title": "解開鎖鏈：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_05_e",
+          "title": "解開鎖鏈：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_06_s",
+          "title": "肆無忌憚的殺心：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_06_e",
+          "title": "肆無忌憚的殺心：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_07_s",
+          "title": "毒牙：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_07_e",
+          "title": "毒牙：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_08_s",
+          "title": "墜落：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_08_e",
+          "title": "墜落：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_09",
+          "title": "此後",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_10",
+          "title": "贖罪",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_11",
+          "title": "仲裁",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_12",
+          "title": "感受異變",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_13",
+          "title": "內部危機",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_14_s",
+          "title": "退出：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24_14_e",
+          "title": "退出：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24af_01",
+          "title": "需要找回的東西",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24af_02",
+          "title": "理所當然的判決",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24af_03",
+          "title": "新的力量",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "25",
+      "status": "16 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=52",
+      "scenes": [
+        {
+          "id": "d_main_24af_04",
+          "title": "等待已久的命令",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24af_05",
+          "title": "後遺症",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_24af_06",
+          "title": "謊言",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_01",
+          "title": "魯莽的行進",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_02_s",
+          "title": "鄭重的請求：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_02_e",
+          "title": "鄭重的請求：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_03_s",
+          "title": "掉落的火龍：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_03_e",
+          "title": "掉落的火龍：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_04",
+          "title": "害怕的男人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_05_s",
+          "title": "扯後腿的：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_05_e",
+          "title": "扯後腿的：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_06",
+          "title": "只是盡力而已",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_07_s",
+          "title": "致謝：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_07_e",
+          "title": "致謝：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_08_s",
+          "title": "紅色痕跡：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_25_08_e",
+          "title": "紅色痕跡：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "26",
+      "status": "18 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=53",
+      "scenes": [
+        {
+          "id": "d_main_26_01_s",
+          "title": "回到故鄉：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_01_e",
+          "title": "回到故鄉：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_02_s",
+          "title": "從過去來到現在：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_02_e",
+          "title": "從過去來到現在：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_03_s",
+          "title": "白騎士：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_03_e",
+          "title": "白騎士：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_04",
+          "title": "珍貴的人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_05_s",
+          "title": "決心：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_05_e",
+          "title": "決心：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_06",
+          "title": "故鄉在遠方",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_07_s",
+          "title": "因為想回到過去：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_07_e",
+          "title": "因為想回到過去：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_08",
+          "title": "留下記憶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_09",
+          "title": "正式交易",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_10",
+          "title": "第一個奪回地點",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_11",
+          "title": "將成為我的力量",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_12_s",
+          "title": "與未知的重逢：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26_12_e",
+          "title": "與未知的重逢：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "27",
+      "status": "16 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=54",
+      "scenes": [
+        {
+          "id": "d_main_26af_01",
+          "title": "收復地 01",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26af_02",
+          "title": "值得被稱讚的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_26af_03",
+          "title": "新成員",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_01_s",
+          "title": "嚮導、礦工、電工：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_01_e",
+          "title": "嚮導、礦工、電工：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_02",
+          "title": "一同前往",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_03_s",
+          "title": "各自的情況：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_03_e",
+          "title": "各自的情況：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_04_s",
+          "title": "沙漠的水晶：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_04_e",
+          "title": "沙漠的水晶：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_05",
+          "title": "生長的水晶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_06",
+          "title": "明確的目的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_07",
+          "title": "BOOM",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_08",
+          "title": "往窄路走",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_09_s",
+          "title": "寄生：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_27_09_e",
+          "title": "寄生：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "28",
+      "status": "18 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=55",
+      "scenes": [
+        {
+          "id": "d_main_28_01_s",
+          "title": "被蠶食的城市：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_01_e",
+          "title": "被蠶食的城市：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_02",
+          "title": "再往前一點",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_03",
+          "title": "小意外",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_04_s",
+          "title": "探索：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_04_e",
+          "title": "探索：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_05_s",
+          "title": "透視之眼：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_05_e",
+          "title": "透視之眼：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_06",
+          "title": "穿過崎嶇道路",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_07_s",
+          "title": "門的另一邊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_07_e",
+          "title": "門的另一邊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_08_s",
+          "title": "抬棺材的人：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_08_e",
+          "title": "抬棺材的人：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_09_s",
+          "title": "改變的路：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_09_e",
+          "title": "改變的路：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_10",
+          "title": "孤立無援的兩人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_11_s",
+          "title": "與未知的相遇：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_11_e",
+          "title": "與未知的相遇：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "29",
+      "status": "20 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=56",
+      "scenes": [
+        {
+          "id": "d_main_28_af_01",
+          "title": "剩下的人們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_28_af_02",
+          "title": "展開營救",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_01_s",
+          "title": "剩下的同伴們：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_01_e",
+          "title": "剩下的同伴們：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_02_s",
+          "title": "痕跡：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_02_e",
+          "title": "痕跡：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_03_s",
+          "title": "不祥的痕跡：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_03_e",
+          "title": "不祥的痕跡：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_04_s",
+          "title": "BOOM的信號：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_04_e",
+          "title": "BOOM的信號：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_05_s",
+          "title": "先遣隊的情況：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_05_e",
+          "title": "先遣隊的情況：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_06_s",
+          "title": "破洞的衣服：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_06_e",
+          "title": "破洞的衣服：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_07_s",
+          "title": "懷念的話：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_07_e",
+          "title": "懷念的話：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_08_s",
+          "title": "正氣凜然：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_08_e",
+          "title": "正氣凜然：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_09_s",
+          "title": "可疑的二人：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_29_09_e",
+          "title": "可疑的二人：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "30",
+      "status": "18 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=57",
+      "scenes": [
+        {
+          "id": "d_main_30_01_s",
+          "title": "白色建築：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_01_e",
+          "title": "白色建築：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_02",
+          "title": "西斯歐",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_03_s",
+          "title": "什麼都沒有：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_03_e",
+          "title": "什麼都沒有：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_04",
+          "title": "在墳墓",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_05",
+          "title": "為了要證明",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_06_s",
+          "title": "人類的標準：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_06_e",
+          "title": "人類的標準：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_07_s",
+          "title": "棺裡的公主：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_07_e",
+          "title": "棺裡的公主：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_08_s",
+          "title": "即使到最後：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_08_e",
+          "title": "即使到最後：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_09_s",
+          "title": "奔跑的背影：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_09_e",
+          "title": "奔跑的背影：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_af_01",
+          "title": "之後的事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_af_02",
+          "title": "伸出的手",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_30_af_03",
+          "title": "無法擺脫的",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "31",
+      "status": "13 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=58",
+      "scenes": [
+        {
+          "id": "d_main_31_01_s",
+          "title": "過去的記憶：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_01_e",
+          "title": "過去的記憶：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_02_s",
+          "title": "別樣的重逢：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_02_e",
+          "title": "別樣的重逢：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_03",
+          "title": "A柱",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_04_s",
+          "title": "位置變換：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_04_e",
+          "title": "位置變換：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_05",
+          "title": "膽小鬼",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_06",
+          "title": "魔獸",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_07",
+          "title": "一直在做的事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_08",
+          "title": "貝西摩斯",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_09_s",
+          "title": "既盲目又單純地：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_31_09_e",
+          "title": "既盲目又單純地：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "32",
+      "status": "15 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=59",
+      "scenes": [
+        {
+          "id": "d_main_32_01",
+          "title": "交代後事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_02_s",
+          "title": "道歉與原諒：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_02_e",
+          "title": "道歉與原諒：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_03",
+          "title": "水晶鞋",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_04",
+          "title": "靜止的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_05",
+          "title": "魔獸突襲",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_06_s",
+          "title": "魔獸狩獵：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_06_e",
+          "title": "魔獸狩獵：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_07",
+          "title": "兩人間的對話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_08_s",
+          "title": "復仇之戰：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_08_e",
+          "title": "復仇之戰：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_09_s",
+          "title": "但願尋回：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_09_e",
+          "title": "但願尋回：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_af_01",
+          "title": "魔鏡與王子殿下",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_32_af_02",
+          "title": "現在才說以後",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "33",
+      "status": "13 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=60",
+      "scenes": [
+        {
+          "id": "d_main_33_01",
+          "title": "剷除水晶區域",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_02_s",
+          "title": "祕密對話：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_02_e",
+          "title": "祕密對話：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_03",
+          "title": "我的主人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_04",
+          "title": "美麗樣貌",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_05_s",
+          "title": "黑水：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_05_e",
+          "title": "黑水：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_06",
+          "title": "利維坦",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_07",
+          "title": "探索戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_08",
+          "title": "嫡系",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_09",
+          "title": "黑浪",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_10_s",
+          "title": "二代童話型號：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_33_10_e",
+          "title": "二代童話型號：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "34",
+      "status": "15 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=61",
+      "scenes": [
+        {
+          "id": "d_main_34_01_s",
+          "title": "自尊心：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_01_e",
+          "title": "自尊心：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_02",
+          "title": "不管是什麼",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_03",
+          "title": "因為久遠",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_04",
+          "title": "狩獵計畫",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_05",
+          "title": "繼承的意義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_06_s",
+          "title": "撰寫者的據透：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_06_e",
+          "title": "撰寫者的劇透：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_07_s",
+          "title": "再次衝突：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_07_e",
+          "title": "再次衝突：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_08",
+          "title": "我來守護",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_09_s",
+          "title": "繼承的力量：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_09_e",
+          "title": "繼承的力量：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_af_01",
+          "title": "下個故事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_34_af_02",
+          "title": "不是離別的離別",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "35",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=62",
+      "scenes": [
+        {
+          "id": "d_main_35bf_01",
+          "title": "我就是我",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_02",
+          "title": "激昂",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_03",
+          "title": "讓人心動的話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_04",
+          "title": "中場休息",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_05",
+          "title": "因為是同伴",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_06",
+          "title": "多次失誤",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35bf_07",
+          "title": "可靠的援軍？",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_01",
+          "title": "黑海",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_02",
+          "title": "回歸者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_03",
+          "title": "會如何改變呢",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_04",
+          "title": "引退演出宣言",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_05_s",
+          "title": "水珠：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_05_e",
+          "title": "水珠：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_06",
+          "title": "孤獨的對談",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_07",
+          "title": "煩惱和煩惱",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_08_s",
+          "title": "蛋中之物：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_08_e",
+          "title": "蛋中之物：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_09_s",
+          "title": "渴望對話：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_35_09_e",
+          "title": "渴望對話：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "36",
+      "status": "13 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=63",
+      "scenes": [
+        {
+          "id": "d_main_36_01",
+          "title": "臨時同伴",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_02",
+          "title": "提問和解答",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_03_s",
+          "title": "心臟按摩：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_03_e",
+          "title": "心臟按摩：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_04",
+          "title": "間接幫助",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_05",
+          "title": "長遠的計畫",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_06",
+          "title": "口味",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_07_s",
+          "title": "尋找同伴後：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_07_e",
+          "title": "尋找同伴後：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_08_s",
+          "title": "監察部隊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_08_e",
+          "title": "監察部隊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_09_s",
+          "title": "拔河：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_36_09_e",
+          "title": "拔河：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "37",
+      "status": "11 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=65",
+      "scenes": [
+        {
+          "id": "d_main_37_01",
+          "title": "當成傻瓜",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_02_s",
+          "title": "讚美：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_02_e",
+          "title": "讚美：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_03",
+          "title": "壓倒性的數值",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_04",
+          "title": "眼鏡聯盟",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_05",
+          "title": "一等功臣",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_06_s",
+          "title": "實驗場所：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_06_e",
+          "title": "實驗場所：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_07",
+          "title": "悄悄話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_08_s",
+          "title": "席茲：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_37_08_e",
+          "title": "席茲：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "38",
+      "status": "13 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=66",
+      "scenes": [
+        {
+          "id": "d_main_38_01_s",
+          "title": "驕傲與信念：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_01_e",
+          "title": "驕傲與信念：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_02",
+          "title": "珍貴之物",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_03",
+          "title": "銀色液體",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_04",
+          "title": "終極復仇",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_05_s",
+          "title": "過去的同伴們：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_05_e",
+          "title": "過去的同伴們：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_06",
+          "title": "各自的現在",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_07_s",
+          "title": "閃閃發光：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_07_e",
+          "title": "閃閃發光：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_08",
+          "title": "超級英雄、大反派",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_09_s",
+          "title": "巨大的嘴巴：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_38_09_e",
+          "title": "巨大的嘴巴：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "39",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=67",
+      "scenes": [
+        {
+          "id": "d_main_39_01",
+          "title": "萊徹迷",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_02",
+          "title": "對話的條件",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_03",
+          "title": "向著鯨魚",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_04",
+          "title": "鯨魚探險",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_05",
+          "title": "天上的僧侶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_06",
+          "title": "第四位食客",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_07",
+          "title": "深層之物",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_08",
+          "title": "和諧的方法",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_09",
+          "title": "原地打轉",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_10",
+          "title": "異於平常",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_11",
+          "title": "傳遞預兆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_01",
+          "title": "再次延續",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_02",
+          "title": "贖罪與懲罰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_03",
+          "title": "監視者",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_04",
+          "title": "可疑的動靜",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_05",
+          "title": "阿妮斯的世界",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_06",
+          "title": "令人窒息的場所",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_07",
+          "title": "方舟之星",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_39_af_08",
+          "title": "照亮星星的光",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "40",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=68",
+      "scenes": [
+        {
+          "id": "d_main_40_01",
+          "title": "7號",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_02",
+          "title": "女王的資格",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_03",
+          "title": "深淵碎片",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_04",
+          "title": "第三物種",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_05",
+          "title": "膽怯",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_06",
+          "title": "寂靜的陰影",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_07",
+          "title": "因子殺手",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_08",
+          "title": "抉擇時刻",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_09",
+          "title": "站在哪一邊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_10",
+          "title": "無可救藥",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_11",
+          "title": "遠方的純白之地",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_01",
+          "title": "惹禍",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_02",
+          "title": "抓住破綻",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_03",
+          "title": "米賽斯小姐",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_04",
+          "title": "P",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_05",
+          "title": "尋找星星的人們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_06",
+          "title": "傳向星星的聲音",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_07",
+          "title": "全力以赴",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_40_af_08",
+          "title": "傳奇製作人",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "41",
+      "status": "16 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=69",
+      "scenes": [
+        {
+          "id": "d_main_41_01",
+          "title": "四號野獸",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_02",
+          "title": "意外的救援",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_03",
+          "title": "沒有對話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_04",
+          "title": "共存的意義",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_05",
+          "title": "酷東西",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_06",
+          "title": "正面對決",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_07",
+          "title": "熟悉的聲音",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_08",
+          "title": "誕生",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_09",
+          "title": "誕生之事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_01",
+          "title": "小星星",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_02",
+          "title": "歡笑箱",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_03",
+          "title": "深邃的黑暗中",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_04",
+          "title": "眼鏡與鑰匙",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_05",
+          "title": "抓住破綻",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_06",
+          "title": "第二次恐怖攻擊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_41_af_07",
+          "title": "詭異的景象",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "42",
+      "status": "17 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=70",
+      "scenes": [
+        {
+          "id": "d_main_42_01",
+          "title": "黑色少女",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_02",
+          "title": "四獸部隊的女王",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_03",
+          "title": "反覆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_04",
+          "title": "我的燈火",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_05",
+          "title": "再次嘗試",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_06",
+          "title": "聯合作戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_07",
+          "title": "黑色王座：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_08",
+          "title": "黑色王座：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_01",
+          "title": "合作請求",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_02",
+          "title": "別逃",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_03",
+          "title": "不負眾望",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_04",
+          "title": "並非萬能",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_05",
+          "title": "方舟的星星一直都在",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_06",
+          "title": "星星的星星",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_07",
+          "title": "張開雙臂",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_08",
+          "title": "新的延續",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_42_af_09",
+          "title": "意外的聯繫",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "43",
+      "status": "15 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=71",
+      "scenes": [
+        {
+          "id": "d_main_43_01",
+          "title": "防護模組",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_02",
+          "title": "普林瑟斯",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_03",
+          "title": "水準差異",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_04",
+          "title": "線裡面的家",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_05",
+          "title": "充實的一天",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_06",
+          "title": "變熟悉的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_07",
+          "title": "斯托爾三世",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_08",
+          "title": "變化的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_09",
+          "title": "日常的招呼",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_10",
+          "title": "我們的家",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_11",
+          "title": "聖下",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_12",
+          "title": "朝向隔牆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_13",
+          "title": "最後的請求",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_14",
+          "title": "霓虹燈",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_43_15",
+          "title": "密碼",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "44",
+      "status": "19 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=72",
+      "scenes": [
+        {
+          "id": "d_main_44_01",
+          "title": "朝向伊甸園",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_02",
+          "title": "好想見你",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_03",
+          "title": "戰場的痕跡",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_04",
+          "title": "失去的事物們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_05",
+          "title": "為了挽回一切",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_06",
+          "title": "未知的眼淚",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_07",
+          "title": "彼此的故事",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_08_s",
+          "title": "全新的仿製品：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_08_e",
+          "title": "全新的仿製品：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_01",
+          "title": "匯報情況",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_02",
+          "title": "崇拜與嫉妒之間",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_03",
+          "title": "西斯歐討伐戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_04",
+          "title": "力量的真理",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_05",
+          "title": "以牡丹之名",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_06",
+          "title": "無可奈何的人生",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_07",
+          "title": "威脅與交易",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_08",
+          "title": "躍入螢幕",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_09",
+          "title": "健康的身體",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_44_af_10",
+          "title": "被抹除的紀錄",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "45",
+      "status": "11 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=73",
+      "scenes": [
+        {
+          "id": "d_main_45_01",
+          "title": "健康的身體，強大的武器",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_02",
+          "title": "沉穩的心情，閃耀的燈光",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_03",
+          "title": "討伐準備",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_04",
+          "title": "腳下之物",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_05",
+          "title": "反擊部隊升級",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_06",
+          "title": "走出世界",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_07",
+          "title": "討伐開始",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_08",
+          "title": "照亮黑暗的金色與星光",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_09",
+          "title": "討伐完成",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_10",
+          "title": "犯罪之人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_45_11",
+          "title": "盡頭將至",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "46",
+      "status": "21 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=74",
+      "scenes": [
+        {
+          "id": "d_main_46_01",
+          "title": "不祥的徵兆",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_02",
+          "title": "違和感",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_03",
+          "title": "前往敵陣",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_04",
+          "title": "紅色鏡子",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_05",
+          "title": "新生",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_06",
+          "title": "刀尖上的同行",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_07",
+          "title": "戰力補強",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_08",
+          "title": "四隻魔獸，兩個女王",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_09",
+          "title": "女王與女王",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_10",
+          "title": "劍與翅膀：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_11",
+          "title": "劍與翅膀：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_01",
+          "title": "複雜的心情",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_02",
+          "title": "煽動者們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_03",
+          "title": "不該被觸碰的過去",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_04",
+          "title": "冰冷的槍聲",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_05",
+          "title": "補償",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_06",
+          "title": "可憐而悲傷的",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_07",
+          "title": "探視",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_08",
+          "title": "敵機",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_09",
+          "title": "曝光的醜聞",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_46_af_10",
+          "title": "展現光芒之時",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "47",
+      "status": "7 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=75",
+      "scenes": [
+        {
+          "id": "d_main_47_01",
+          "title": "期待已久的會合",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_02",
+          "title": "先斬後奏",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_03",
+          "title": "宣戰",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_04",
+          "title": "沉睡的人們",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_05",
+          "title": "只為一人",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_06",
+          "title": "再一次，越線：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_47_07",
+          "title": "再一次，越線：B",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "48",
+      "status": "8 場景主幹已讀，選項分支未遍歷",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/main/list?id=76",
+      "scenes": [
+        {
+          "id": "d_main_48_01",
+          "title": "黑色高塔",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_02",
+          "title": "沉默的巨神",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_03",
+          "title": "神聖的金色",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_04",
+          "title": "願再紅一天",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_05",
+          "title": "久遠的記憶",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_06_s",
+          "title": "甦醒的力量：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_06_e",
+          "title": "甦醒的力量：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "d_main_48_07",
+          "title": "決戰時刻",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "OZ",
+      "status": "Over Zone 兩部共 28 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/archive/list?id=200",
+      "scenes": [
+        {
+          "id": "event_overzone_prologue",
+          "title": "最後的道別",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_01_s",
+          "title": "方舟守護者：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_01_e",
+          "title": "方舟守護者：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_02_s",
+          "title": "乾涸的土地：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_02_e",
+          "title": "乾涸的土地：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_03_s",
+          "title": "望著樂園的人們：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_03_e",
+          "title": "望著樂園的人們：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_intermission_01",
+          "title": "帶有魔法的一句話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_04_s",
+          "title": "偶像：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_04_e",
+          "title": "偶像：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_05_s",
+          "title": "再次振作：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_05_e",
+          "title": "再次振作：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_06_s",
+          "title": "無回應的樂園：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone1_06_e",
+          "title": "無回應的樂園：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_01_s",
+          "title": "理想型：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_01_e",
+          "title": "理想型：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_02_s",
+          "title": "在記憶中哀悼：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_02_e",
+          "title": "在記憶中哀悼：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_03_s",
+          "title": "殺人的鋼鐵，救人的鋼鐵：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_03_e",
+          "title": "殺人的鋼鐵，救人的鋼鐵：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_intermission_01",
+          "title": "只屬於我的朋友",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_04_s",
+          "title": "負傷與隕落：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_04_e",
+          "title": "負傷與隕落：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_05_s",
+          "title": "回顧：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_05_e",
+          "title": "回顧：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_06_s",
+          "title": "眼前的樂園：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_06_e",
+          "title": "眼前的樂園：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_overzone2_epilogue",
+          "title": "越線",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "RA",
+      "status": "Red Ash 兩部共 28 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/archive/list?id=1300",
+      "scenes": [
+        {
+          "id": "event_redash_prologue",
+          "title": "鎖頭技和簡報",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_01_s",
+          "title": "最後一搏：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_01_e",
+          "title": "最後一搏：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_02_s",
+          "title": "臨別贈禮：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_02_e",
+          "title": "臨別贈禮：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_03_s",
+          "title": "小紅和小白：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_03_e",
+          "title": "小紅和小白：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_intermission_01",
+          "title": "遭受玩弄",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_04_s",
+          "title": "完美結局：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_04_e",
+          "title": "完美結局：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_05_s",
+          "title": "決戰開始：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_05_e",
+          "title": "決戰開始：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_06_s",
+          "title": "轉身離開：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash1_06_e",
+          "title": "轉身離開：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_01_s",
+          "title": "時光飛馳而過：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_01_e",
+          "title": "時光飛馳而過：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_02_s",
+          "title": "無比驕傲的回憶：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_02_e",
+          "title": "無比驕傲的回憶：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_03_s",
+          "title": "致謝：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_03_e",
+          "title": "致謝：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_intermission_01",
+          "title": "思念與懊悔",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_04_s",
+          "title": "為了瀟灑的分別：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_04_e",
+          "title": "為了瀟灑的分別：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_05_s",
+          "title": "紅色身影：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_05_e",
+          "title": "紅色身影：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_06_s",
+          "title": "面帶微笑，轉身離開：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_06_e",
+          "title": "面帶微笑，轉身離開：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_redash2_epilogue",
+          "title": "紅遇紅",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "OT",
+      "status": "Old Tales 兩部共 28 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/archive/list?id=3100",
+      "scenes": [
+        {
+          "id": "event_oldtales1_prologue",
+          "title": "第二個童話",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_01_s",
+          "title": "長久的等待：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_01_e",
+          "title": "長久的等待：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_02_s",
+          "title": "出戰前夜：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_02_e",
+          "title": "出戰前夜：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_03_s",
+          "title": "至美之日，至暗之日：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_03_e",
+          "title": "至美之日，至暗之日：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_intermission_01",
+          "title": "在牆的的另一邊",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_04_s",
+          "title": "散落的童話：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_04_e",
+          "title": "散落的童話：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_05_s",
+          "title": "叛徒：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_05_e",
+          "title": "叛徒：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_06_s",
+          "title": "異端者阿納基奧勒：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales1_06_e",
+          "title": "異端者阿納基奧勒：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_01_s",
+          "title": "安靜的贖罪：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_01_e",
+          "title": "安靜的贖罪：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_02_s",
+          "title": "怪物的眼淚：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_02_e",
+          "title": "怪物的眼淚：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_03_s",
+          "title": "童話重聚：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_03_e",
+          "title": "童話重聚：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_intermission_01",
+          "title": "紅色成為紅色",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_04_s",
+          "title": "一直關注著：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_04_e",
+          "title": "一直關注著：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_05_s",
+          "title": "最美的勝利：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_05_e",
+          "title": "最美的勝利：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_06_s",
+          "title": "故事的結局：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_06_e",
+          "title": "故事的結局：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_oldtales2_epilogue",
+          "title": "續寫童話",
+          "status": "已讀主幹"
+        }
+      ]
+    },
+    {
+      "chapter": "US",
+      "status": "Unbreakable Sphere 兩部共 28 場景主幹已讀",
+      "source": "https://www.blablalink.com/shiftyspad/scene-list/archive/list?id=3900",
+      "scenes": [
+        {
+          "id": "event_unbreakablesphere1_prologue",
+          "title": "巨大的嘴",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_01_s",
+          "title": "泡沫花園：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_01_e",
+          "title": "泡沫花園：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_02_s",
+          "title": "瑣碎卻了不起的事：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_02_e",
+          "title": "瑣碎卻了不起的事：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_03_s",
+          "title": "泡沫工作坊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_03_e",
+          "title": "泡沫工作坊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_intermission_01",
+          "title": "喉嚨",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_04_s",
+          "title": "孵化器部隊：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_04_e",
+          "title": "孵化器部隊：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_05_s",
+          "title": "離開準備：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_05_e",
+          "title": "離開準備：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_06_s",
+          "title": "外面：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere1_06_e",
+          "title": "外面：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_01_s",
+          "title": "浮出水面：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_01_e",
+          "title": "浮出水面：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_02_s",
+          "title": "借用智慧：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_02_e",
+          "title": "借用智慧：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_03_s",
+          "title": "面對面：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_03_e",
+          "title": "面對面：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_intermission_01",
+          "title": "波濤洶湧的大海",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_04_s",
+          "title": "WARDRESS：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_04_e",
+          "title": "WARDRESS：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_05_s",
+          "title": "絕對不會破碎的：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_05_e",
+          "title": "絕對不會破碎的：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_06_s",
+          "title": "故事的結局：A",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_06_e",
+          "title": "故事的結局：B",
+          "status": "已讀主幹"
+        },
+        {
+          "id": "event_unbreakablesphere2_epilogue",
+          "title": "往後，我們的故事",
+          "status": "已讀主幹"
+        }
+      ]
+    }
+  ]
+}

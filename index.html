@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050505">
+  <meta name="description" content="非官方、非營利的粉絲整理。沿故事發生的年代，串起《勝利女神：妮姬》主線與檔案館的事件。與（株）SHIFTUP 無從屬關係。">
+  <title>地表紀事 — 非官方 NIKKE 劇情時間軸</title>
+  <script>try{const t=localStorage.getItem('chronicle-theme');document.documentElement.dataset.theme=t||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#timeline">跳至故事時間軸</a>
+  <div class="reading-progress" aria-hidden="true"><div id="progress"></div></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="地表紀事首頁"><span class="brand-mark">N<span>／</span></span><span>地表紀事<small>NIKKE CHRONICLE</small></span></a>
+    <nav aria-label="主要導覽"><a href="#timeline" class="header-link">故事時間軸</a><button class="plain" id="sources-button">來源與收錄</button><button class="plain" id="rights-button">權利聲明</button><span class="header-divider"></span><button id="theme-button" class="icon-button" aria-label="切換深淺色" title="切換深淺色"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20.7 13A8.5 8.5 0 0 1 11 3.3 8.5 8.5 0 1 0 20.7 13Z"/></svg></button></nav>
+  </header>
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy"><div class="eyebrow"><span class="live-dot"></span> THE SURFACE REMEMBERS</div><h1 id="hero-title">從失去地表，<br>到再次<span>出發。</span></h1><p>散落在不同篇章的記憶，回到它們發生的年代。<br class="desktop-break">沿著時間往下讀，看見每一場相遇與選擇的來由。</p><a class="start-button" href="#timeline">開始閱讀 <span>↓</span></a><div class="hero-meta"><span>主線劇情 × 檔案館</span><i></i><span>依故事年代編排</span><i></i><span>非官方整理</span></div></div>
+      <figure class="hero-art"><img src="./assets/surface.svg" alt="原創年代意象：塵光中的失落地表，與一座沒入天空的高塔"><figcaption><span>ARCHIVE / 001</span><span>地表，仍在等待。<small>原創年代意象・非遊戲畫面</small></span></figcaption></figure>
+    </section>
+    <div class="notice"><span class="notice-icon">!</span><p><strong>全劇透閱讀</strong><span>依事件發生順序重組，包含主線與前傳的重要轉折。</span></p><a href="#editorial-note">編排說明 ↗</a></div>
+    <div class="reader-layout">
+      <aside class="era-sidebar" aria-label="年代導覽"><div class="eyebrow">CHRONOLOGICAL INDEX</div><h2>歷史的座標</h2><nav id="era-nav"></nav><div class="sidebar-note"><span class="small-cross">＋</span><p>時間是線索，<br>選擇讓故事往前。</p><small>年份不明時，以相對時期呈現。<br>同一時期的事件，寬螢幕上左右並排。</small></div></aside>
+      <div class="reading-column">
+        <section class="reader-toolbar" id="timeline" aria-label="時間軸工具"><div><span class="eyebrow">THE STORY SO FAR</span><h2>沿著時間，重新相遇。</h2></div><span class="event-total" id="event-total"></span></section>
+        <div class="controls"><label class="search-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜尋事件、人物或篇章…" aria-label="搜尋事件、人物或篇章"></label><div class="filters" aria-label="來源篩選"><button class="filter active" data-filter="all" aria-pressed="true">全部</button><button class="filter" data-filter="archive" aria-pressed="false">檔案館</button><button class="filter" data-filter="main" aria-pressed="false">主線</button></div></div>
+        <div id="resume" hidden><span id="resume-text"></span><button class="text-button" id="resume-button">接著閱讀 →</button></div>
+        <p class="result-status" id="result-status" role="status"></p>
+        <div id="events"></div>
+        <section class="editorial-note" id="editorial-note"><span class="eyebrow">A NOTE FROM THE ARCHIVE</span><h2>拼回歷史，也保留未知。</h2><p>本整理僅以 BlablaLink 官方社群站為劇情來源。目前已整理檔案館 Red Ash、Old Tales、Over Zone、Unbreakable Sphere，以及第 00–48 章已讀主幹。早期從灰姑娘與軌道電梯寫起，現代收到第 48 章尚未結束的軌道電梯。小美人魚在饕餮喉嚨裡的七十年，仍未對上這一段主線裡的某一場。有選項的場景尚未遍歷全部分支，個別選項後續亦有待補讀。主線第 00–48 章有名稱與場景數索引，詳細閱讀狀態另列。</p><p>事件依發生時間整理，後來才揭露的前因會放回較早的時間位置，並標明來源與推論性質。「約百年前」是概略時期，「五年前封城」相對於第 02 章任務當時；沒有充分依據的年份與因果不作定論。事件摘要與整理者解讀分開呈現，整理者的話不是官方設定。</p><div class="note-actions"><button class="text-button" id="coverage-button">查看收錄進度與來源 ↗</button><button class="text-button" id="rights-note-button">權利與使用範圍 ↗</button></div></section>
+      </div>
+    </div>
+    <footer><a class="footer-brand" href="#top">地表紀事 <span>／ NIKKE CHRONICLE</span></a><p>獻給仍記得地表的人們。</p><p class="footer-rights">非官方、非營利的粉絲整理。《勝利女神：妮姬》的世界觀、角色、圖像、音樂與其他遊戲內容，權利歸（株）SHIFTUP 或相關授權提供方所有。本站與 SHIFTUP 無贊助、合作或從屬關係。<button type="button" class="text-button" id="rights-footer-button">權利聲明 ↗</button></p></footer>
+  </main>
+  <a href="#top" class="back-top" aria-label="回到頂端">↑</a>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="rights-dialog" aria-labelledby="rights-title"><div class="dialog-header"><div><span class="eyebrow">RIGHTS NOTICE</span><h2 id="rights-title">權利聲明</h2></div><button id="close-rights" class="icon-button" aria-label="關閉權利聲明">×</button></div><div class="dialog-body"><p>本站「地表紀事」是玩家基於興趣製作的非官方、非營利閱讀整理，供同好免費閱覽與分享。不是（株）SHIFTUP 的官方網站、攻略或公告，與 SHIFTUP 及其授權方沒有贊助、擔保、合作或從屬關係。</p><h3>原創內容的權利</h3><p>《勝利女神：妮姬》（GODDESS OF VICTORY: NIKKE）的世界觀、背景、角色、名稱、圖像、音樂、影片，以及其他由 SHIFTUP 開發或出版、收錄於遊戲中的內容，相關智慧財產權歸（株）SHIFTUP 所有或管理，或歸相關授權提供方所有。</p><h3>本站的使用範圍</h3><ul class="rights-list"><li>事件摘要、年代編排與整理者解讀，是依據公開劇情寫成的二次整理，不是官方劇本，也不能代替遊戲內文。</li><li>不轉載完整劇本、官方立繪、怪物與背景圖像、背景音樂或影片。頁首圖像與卡片示意皆為本站原創，不是遊戲畫面。直接複製官方圖像不在二次創作的範圍內。</li><li>劇情出處連結至 BlablaLink 官方社群站，方便回到原始來源核對。</li><li>不以營利為目的：不加廣告、打賞或付費牆，也不販售本站內容。</li><li>不將本整理用於比賽，或未獲 SHIFTUP 許可的公開活動；也不用遊戲 IP 製作、發行或營運遊戲。</li></ul><h3>依據與變更</h3><p>公開二次創作時須標明原創內容，故本站標示 SHIFTUP 與《勝利女神：妮姬》。本聲明依 SHIFTUP《二次創作活動準則》整理。準則可不經預告變更，並可能依個案另有政策，請以官方頁面為準。</p><p><a href="https://policy.shiftup.co.kr/ip/zh-tw/index.html" target="_blank" rel="noopener noreferrer">SHIFTUP 二次創作活動準則 ↗</a></p><p class="muted">若權利人要求中斷發布或刪除內容，本站會配合下架。準則本身的疑問請洽 SHIFTUP 所設信箱 <a href="mailto:ugc@shiftup.co.kr">ugc@shiftup.co.kr</a>，該信箱不是本站的聯絡方式。</p></div></dialog>
+  <dialog id="sources-dialog" aria-labelledby="sources-title"><div class="dialog-header"><div><span class="eyebrow">SOURCE NOTEBOOK</span><h2 id="sources-title">來源與收錄進度</h2></div><button id="close-dialog" class="icon-button" aria-label="關閉來源視窗">×</button></div><div class="dialog-body"><p>目前的事件整理是第一批內容。章節索引代表已確認名稱，不代表全文已完成考據。以下連結可開啟原始來源。</p><h3>本批事件使用的來源</h3><div id="event-sources"></div><h3>主線章節索引</h3><p class="muted">第 00–48 章 · 來源觀察日期 2026.10.28</p><div id="chapter-index"></div></div></dialog>
+</body>
+</html>
