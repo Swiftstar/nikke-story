@@ -39,7 +39,7 @@ Repository 是 [Swiftstar/nikke-story](https://github.com/Swiftstar/nikke-story)
 
 `data/official-names.json` 保存已核對的官方繁中角色用語與出處。例如 Cinderella 使用「灰姑娘」，不得直接音譯成「仙杜瑞拉」。其他角色、部隊與專有名詞也必須查官方繁中圖鑑或場景，不能自行從英文回譯。不同型態、別名與身份須按場景區分。`npm run check` 會掃描上線正文，拒絕已列入表內的錯譯；尚未收錄的用語仍需人工核對，不代表已完成全角色與全專有名詞審校。
 
-首圖 `assets/surface.svg` 是原創年代意象，不是遊戲截圖；卡片的關係示意也非遊戲畫面。不要改放官方立繪、遊戲截圖、背景圖、音樂或影片。
+首圖 `assets/surface.svg` 是原創年代意象，不是遊戲截圖。事件上的關鍵靜幀放在 `assets/stills/`，是遊戲內劇情畫面，只標示對應事件，權利歸 SHIFTUP。不要另放官方立繪、音樂或影片。
 
 ## 權利與上架界限
 
@@ -51,7 +51,7 @@ Repository 是 [Swiftstar/nikke-story](https://github.com/Swiftstar/nikke-story)
 
 - 免費供同好閱讀。不加廣告、打賞、販售或付費牆，也不把整理用於比賽或未獲許可的公開活動。
 - 不以此 IP 製作、發行或營運遊戲。
-- 不轉載完整劇本或官方圖像、音樂、影片。直接複製官方圖像（含僅改色、變形）不屬於準則所稱的二次創作。
+- 不轉載完整劇本、官方立繪、音樂或影片。事件卡片上的關鍵靜幀是遊戲內劇情畫面，用來標示事件，權利仍歸 SHIFTUP。
 - 摘要與解讀須和官方原文分開，並連結 BlablaLink 出處。
 - 準則可不經預告變更。若權利人要求下架，刪除相關內容。準則疑問寄至 ugc@shiftup.co.kr；該信箱屬於 SHIFTUP，不是本專案信箱。
 

@@ -4407,7 +4407,13 @@
       "sources": [
         "event_oldtales1_prologue",
         "event_oldtales1_02_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅱ",
+        "title": "鐵管前的崩解城市",
+        "caption": "灰姑娘記得的那一天",
+        "src": "./assets/stills/cinderella-pipe.png"
+      }
     },
     {
       "id": "red-hood-already-corroded",
@@ -4610,7 +4616,13 @@
         "event_redash2_05_e",
         "event_redash2_06_s",
         "event_redash2_06_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅲ",
+        "title": "走向光裡的告別",
+        "caption": "小紅帽與莉莉維絲",
+        "src": "./assets/stills/red-hood-farewell.png"
+      }
     },
     {
       "id": "red-shoes-sent-the-code",
@@ -4804,7 +4816,13 @@
         "event_overzone2_intermission_01",
         "event_overzone2_04_s",
         "event_overzone2_04_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅳ",
+        "title": "門關上的兩邊",
+        "caption": "白雪公主與桃樂絲",
+        "src": "./assets/stills/the-gate-closes.png"
+      }
     },
     {
       "id": "dorothy-crosses-the-line",
@@ -4832,7 +4850,13 @@
         "event_overzone2_05_e",
         "event_overzone2_06_s",
         "event_overzone2_06_e"
-      ]
+      ],
+      "visual": {
+        "number": "Ⅴ",
+        "title": "樂園前的越線",
+        "caption": "桃樂絲",
+        "src": "./assets/stills/dorothy-crosses.png"
+      }
     },
     {
       "id": "abe-counts-a-number",
@@ -5817,7 +5841,13 @@
         "sleeping-princesses",
         "seek-pilgrim"
       ],
-      "arc": "heretic"
+      "arc": "heretic",
+      "visual": {
+        "number": "Ⅵ",
+        "title": "沉睡的公主",
+        "caption": "培養艙裡的人",
+        "src": "./assets/stills/sleeping-pods.png"
+      }
     },
     {
       "id": "pilgrim-decoy",
@@ -5868,7 +5898,13 @@
         "pilgrim-a",
         "pilgrim-b"
       ],
-      "arc": "heretic"
+      "arc": "heretic",
+      "visual": {
+        "number": "Ⅶ",
+        "title": "要他忘記今天的人",
+        "caption": "白雪公主",
+        "src": "./assets/stills/snow-white.png"
+      }
     },
     {
       "id": "decades-without-repair",
@@ -6401,7 +6437,13 @@
         "d_main_13af_06",
         "d_main_13af_07"
       ],
-      "arc": "vapaus"
+      "arc": "vapaus",
+      "visual": {
+        "number": "Ⅷ",
+        "title": "代號亮起的兩秒",
+        "caption": "小紅帽",
+        "src": "./assets/stills/red-hood-name.png"
+      }
     },
     {
       "id": "marian-is-hunted",
@@ -6859,7 +6901,13 @@
         "d_main_20_10_e",
         "d_main_20af_02"
       ],
-      "arc": "eden"
+      "arc": "eden",
+      "visual": {
+        "number": "Ⅸ",
+        "title": "破開的伊甸",
+        "caption": "伊甸園",
+        "src": "./assets/stills/eden-breach.png"
+      }
     },
     {
       "id": "the-name-morning-star",
@@ -6932,7 +6980,13 @@
         "d_main_21af_01",
         "d_main_21af_03"
       ],
-      "arc": "eden"
+      "arc": "eden",
+      "visual": {
+        "number": "Ⅹ",
+        "title": "核心做出的兩發",
+        "caption": "解除劑",
+        "src": "./assets/stills/two-rounds.png"
+      }
     },
     {
       "id": "a-hole-in-the-ark",
@@ -6975,7 +7029,13 @@
         "d_main_22_11",
         "d_main_22_12_e"
       ],
-      "arc": "invasion"
+      "arc": "invasion",
+      "visual": {
+        "number": "Ⅺ",
+        "title": "天被撕開的方舟",
+        "caption": "方舟開洞",
+        "src": "./assets/stills/the-hole.png"
+      }
     },
     {
       "id": "the-shelter-that-was-empty",
@@ -7166,7 +7226,13 @@
         "d_main_26_07_e",
         "d_main_26_08"
       ],
-      "arc": "reclaim"
+      "arc": "reclaim",
+      "visual": {
+        "number": "Ⅻ",
+        "title": "夕陽裡把身體還回去",
+        "caption": "小紅帽",
+        "src": "./assets/stills/red-hood-returns.png"
+      }
     },
     {
       "id": "reclaimed-ground-one",
@@ -7295,7 +7361,13 @@
         "d_main_32_09_e",
         "d_main_32_af_01"
       ],
-      "arc": "crystal-beasts"
+      "arc": "crystal-beasts",
+      "visual": {
+        "number": "ⅩⅢ",
+        "title": "水晶裡睜開的眼",
+        "caption": "灰姑娘",
+        "src": "./assets/stills/cinderella-wakes.png"
+      }
     },
     {
       "id": "abe-builds-the-second",
@@ -7378,7 +7450,13 @@
         "d_main_34_09_e",
         "d_main_34_af_01"
       ],
-      "arc": "crystal-beasts"
+      "arc": "crystal-beasts",
+      "visual": {
+        "number": "ⅩⅣ",
+        "title": "用留下的力量打出的一擊",
+        "caption": "拉毗",
+        "src": "./assets/stills/rapi-inheritance.png"
+      }
     },
     {
       "id": "since-the-morning-star",
@@ -7558,7 +7636,13 @@
         "d_main_40_09",
         "d_main_40_11"
       ],
-      "arc": "queen-factor"
+      "arc": "queen-factor",
+      "visual": {
+        "number": "ⅩⅤ",
+        "title": "鯨背上的因子",
+        "caption": "娜由塔",
+        "src": "./assets/stills/nayuta-whale.png"
+      }
     },
     {
       "id": "the-outer-rim-watches",
@@ -7886,7 +7970,13 @@
         "d_main_48_06_e",
         "d_main_48_07"
       ],
-      "arc": "third-reclaim"
+      "arc": "third-reclaim",
+      "visual": {
+        "number": "ⅩⅥ",
+        "title": "站上前甲板的人",
+        "caption": "桃樂絲",
+        "src": "./assets/stills/dorothy-deck.webp"
+      }
     },
     {
       "id": "throat-of-the-glutton",
@@ -7916,7 +8006,13 @@
         "event_unbreakablesphere1_03_e",
         "event_unbreakablesphere1_05_s"
       ],
-      "arc": "unplaced"
+      "arc": "unplaced",
+      "visual": {
+        "number": "ⅩⅦ",
+        "title": "張開口的饕餮",
+        "caption": "小美人魚仍在喉嚨裡",
+        "src": "./assets/stills/glutton-mouth.png"
+      }
     },
     {
       "id": "mori-drops-the-box",
